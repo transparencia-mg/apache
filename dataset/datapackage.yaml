@@ -25,18 +25,30 @@ resources:
           type: integer
           title: Ano
           description: Ano referente ao dado
-        - name: grau
+        -  name: grau
           type: string
+          title: Grau
+          description: Grau de gravidade do paciente
         - name: escore
           type: string
+          title: Escore
+          description: Pontuação de gravidade do paciente
         - name: predicao_obito
-          type: integer
+          type: geopoint
+          title: Predição de Óbito
+          description: Taxa de predição de mortalidade
         - name: saidas
           type: integer
+          title: Saídas
+          description: Quantidade de saídas de recém nascido
         - name: obitos_ocorridos
           type: integer
+          title: Óbitos Ocorridos
+          description: Quantidade de óbitos ocorridos
         - name: obitos_esperados
           type: geopoint
+          title: Óbitos esperados
+          description: Quantidade de óbitos esperados
     scheme: file
     title: APACHE 2018
   - description: APACHE 2019
