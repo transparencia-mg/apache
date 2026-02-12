@@ -108,7 +108,7 @@ resources:
     profile: tabular-data-resource
     schema:
       fields:
-         - name: unidade
+        - name: unidade
           type: string
           description: Sigla da unidade hospitalar
           title: Unidade
@@ -204,7 +204,7 @@ resources:
     profile: tabular-data-resource
     schema:
       fields:
-         - name: unidade
+        - name: unidade
           type: string
           description: Sigla da unidade hospitalar
           title: Unidade
@@ -252,7 +252,7 @@ resources:
     profile: tabular-data-resource
     schema:
       fields:
-         - name: unidade
+        - name: unidade
           type: string
           description: Sigla da unidade hospitalar
           title: Unidade
@@ -300,7 +300,7 @@ resources:
     profile: tabular-data-resource
     schema:
       fields:
-         - name: unidade
+        - name: unidade
           type: string
           description: Sigla da unidade hospitalar
           title: Unidade
