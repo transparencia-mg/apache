@@ -21,7 +21,7 @@ resources:
           title: Mês
           description: Mês referente ao dado
         - name: ano
-          type: integer
+          type: number
           title: Ano
           description: Ano referente ao dado
         - name: grau
@@ -69,11 +69,11 @@ resources:
           title: Mês
           description: Mês referente ao dado
         - name: ano
-          type: integer
+          type: number
           title: Ano
           description: Ano referente ao dado
         - name: grau
-          type: string
+          type: number
           title: Grau
           description: Grau de gravidade do paciente
         - name: escore
@@ -117,7 +117,7 @@ resources:
           title: Mês
           description: Mês referente ao dado
         - name: ano
-          type: integer
+          type: number
           title: Ano
           description: Ano referente ao dado
         - name: grau
@@ -165,7 +165,7 @@ resources:
           title: Mês
           description: Mês referente ao dado
         - name: ano
-          type: integer
+          type: number
           title: Ano
           description: Ano referente ao dado
         - name: grau
@@ -213,7 +213,7 @@ resources:
           title: Mês
           description: Mês referente ao dado
         - name: ano
-          type: integer
+          type: number
           title: Ano
           description: Ano referente ao dado
         - name: grau
@@ -261,7 +261,7 @@ resources:
           title: Mês
           description: Mês referente ao dado
         - name: ano
-          type: integer
+          type: number
           title: Ano
           description: Ano referente ao dado
         - name: grau
@@ -309,7 +309,7 @@ resources:
           title: Mês
           description: Mês referente ao dado
         - name: ano
-          type: integer
+          type: number
           title: Ano
           description: Ano referente ao dado
         - name: grau
@@ -357,7 +357,7 @@ resources:
           title: Mês
           description: Mês referente ao dado
         - name: ano
-          type: integer
+          type: number
           title: Ano
           description: Ano referente ao dado
         - name: grau
