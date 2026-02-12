@@ -64,22 +64,40 @@ resources:
       fields:
         - name: unidade
           type: string
+          description: Sigla da unidade hospitalar
+          title: Unidade
         - name: mes
           type: string
+          title: Mês
+          description: Mês referente ao dado
         - name: ano
           type: integer
+          title: Ano
+          description: Ano referente ao dado
         - name: grau
           type: string
+          title: Grau
+          description: Grau de gravidade do paciente
         - name: escore
           type: string
+          title: Escore
+          description: Pontuação de gravidade do paciente
         - name: predicao_obito
-          type: integer
+          type: geopoint
+          title: Predição de Óbito
+          description: Taxa de predição de mortalidade
         - name: saidas
           type: integer
+          title: Saídas
+          description: Quantidade de saídas de recém nascido
         - name: obitos_ocorridos
-          type: geopoint
+          type: integer
+          title: Óbitos Ocorridos
+          description: Quantidade de óbitos ocorridos
         - name: obitos_esperados
           type: geopoint
+          title: Óbitos esperados
+          description: Quantidade de óbitos esperados
     scheme: file
     title: APACHE 2019
   - description: APACHE 2020
@@ -95,22 +113,40 @@ resources:
       fields:
         - name: unidade
           type: string
+          description: Sigla da unidade hospitalar
+          title: Unidade
         - name: mes
           type: string
+          title: Mês
+          description: Mês referente ao dado
         - name: ano
           type: integer
+          title: Ano
+          description: Ano referente ao dado
         - name: grau
           type: string
+          title: Grau
+          description: Grau de gravidade do paciente
         - name: escore
           type: string
+          title: Escore
+          description: Pontuação de gravidade do paciente
         - name: predicao_obito
-          type: integer
+          type: geopoint
+          title: Predição de Óbito
+          description: Taxa de predição de mortalidade
         - name: saidas
           type: integer
+          title: Saídas
+          description: Quantidade de saídas de recém nascido
         - name: obitos_ocorridos
           type: integer
+          title: Óbitos Ocorridos
+          description: Quantidade de óbitos ocorridos
         - name: obitos_esperados
           type: geopoint
+          title: Óbitos esperados
+          description: Quantidade de óbitos esperados
     scheme: file
     title: APACHE 2020
   - description: APACHE 2021
@@ -126,22 +162,40 @@ resources:
       fields:
         - name: unidade
           type: string
+          description: Sigla da unidade hospitalar
+          title: Unidade
         - name: mes
           type: string
+          title: Mês
+          description: Mês referente ao dado
         - name: ano
           type: integer
+          title: Ano
+          description: Ano referente ao dado
         - name: grau
           type: string
+          title: Grau
+          description: Grau de gravidade do paciente
         - name: escore
           type: string
+          title: Escore
+          description: Pontuação de gravidade do paciente
         - name: predicao_obito
-          type: integer
+          type: geopoint
+          title: Predição de Óbito
+          description: Taxa de predição de mortalidade
         - name: saidas
           type: integer
+          title: Saídas
+          description: Quantidade de saídas de recém nascido
         - name: obitos_ocorridos
           type: integer
+          title: Óbitos Ocorridos
+          description: Quantidade de óbitos ocorridos
         - name: obitos_esperados
           type: geopoint
+          title: Óbitos esperados
+          description: Quantidade de óbitos esperados
     scheme: file
     title: APACHE 2021
   - description: APACHE 2022
@@ -157,22 +211,40 @@ resources:
       fields:
         - name: unidade
           type: string
+          description: Sigla da unidade hospitalar
+          title: Unidade
         - name: mes
           type: string
+          title: Mês
+          description: Mês referente ao dado
         - name: ano
           type: integer
+          title: Ano
+          description: Ano referente ao dado
         - name: grau
           type: string
+          title: Grau
+          description: Grau de gravidade do paciente
         - name: escore
           type: string
+          title: Escore
+          description: Pontuação de gravidade do paciente
         - name: predicao_obito
-          type: integer
+          type: geopoint
+          title: Predição de Óbito
+          description: Taxa de predição de mortalidade
         - name: saidas
           type: integer
+          title: Saídas
+          description: Quantidade de saídas de recém nascido
         - name: obitos_ocorridos
           type: integer
+          title: Óbitos Ocorridos
+          description: Quantidade de óbitos ocorridos
         - name: obitos_esperados
           type: geopoint
+          title: Óbitos esperados
+          description: Quantidade de óbitos esperados
     scheme: file
     title: APACHE 2022
   - description: APACHE 2023
@@ -188,22 +260,40 @@ resources:
       fields:
         - name: unidade
           type: string
+          description: Sigla da unidade hospitalar
+          title: Unidade
         - name: mes
           type: string
+          title: Mês
+          description: Mês referente ao dado
         - name: ano
           type: integer
+          title: Ano
+          description: Ano referente ao dado
         - name: grau
           type: string
+          title: Grau
+          description: Grau de gravidade do paciente
         - name: escore
           type: string
+          title: Escore
+          description: Pontuação de gravidade do paciente
         - name: predicao_obito
-          type: integer
+          type: geopoint
+          title: Predição de Óbito
+          description: Taxa de predição de mortalidade
         - name: saidas
           type: integer
+          title: Saídas
+          description: Quantidade de saídas de recém nascido
         - name: obitos_ocorridos
           type: integer
+          title: Óbitos Ocorridos
+          description: Quantidade de óbitos ocorridos
         - name: obitos_esperados
-          type: string
+          type: geopoint
+          title: Óbitos esperados
+          description: Quantidade de óbitos esperados
     scheme: file
     title: APACHE 2023
   - description: APACHE 2024
@@ -219,22 +309,40 @@ resources:
       fields:
         - name: unidade
           type: string
+          description: Sigla da unidade hospitalar
+          title: Unidade
         - name: mes
           type: string
+          title: Mês
+          description: Mês referente ao dado
         - name: ano
           type: integer
+          title: Ano
+          description: Ano referente ao dado
         - name: grau
           type: string
+          title: Grau
+          description: Grau de gravidade do paciente
         - name: escore
           type: string
+          title: Escore
+          description: Pontuação de gravidade do paciente
         - name: predicao_obito
-          type: integer
+          type: geopoint
+          title: Predição de Óbito
+          description: Taxa de predição de mortalidade
         - name: saidas
           type: integer
+          title: Saídas
+          description: Quantidade de saídas de recém nascido
         - name: obitos_ocorridos
           type: integer
+          title: Óbitos Ocorridos
+          description: Quantidade de óbitos ocorridos
         - name: obitos_esperados
-          type: string
+          type: geopoint
+          title: Óbitos esperados
+          description: Quantidade de óbitos esperados
     scheme: file
     title: APACHE 2024
   - description: APACHE 2025
@@ -250,22 +358,40 @@ resources:
       fields:
         - name: unidade
           type: string
+          description: Sigla da unidade hospitalar
+          title: Unidade
         - name: mes
           type: string
+          title: Mês
+          description: Mês referente ao dado
         - name: ano
           type: integer
+          title: Ano
+          description: Ano referente ao dado
         - name: grau
           type: string
+          title: Grau
+          description: Grau de gravidade do paciente
         - name: escore
           type: string
+          title: Escore
+          description: Pontuação de gravidade do paciente
         - name: predicao_obito
-          type: integer
+          type: geopoint
+          title: Predição de Óbito
+          description: Taxa de predição de mortalidade
         - name: saidas
           type: integer
+          title: Saídas
+          description: Quantidade de saídas de recém nascido
         - name: obitos_ocorridos
           type: integer
+          title: Óbitos Ocorridos
+          description: Quantidade de óbitos ocorridos
         - name: obitos_esperados
           type: geopoint
+          title: Óbitos esperados
+          description: Quantidade de óbitos esperados
     scheme: file
     title: APACHE 2025
 title: APACHE
