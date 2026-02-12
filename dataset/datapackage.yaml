@@ -2,7 +2,7 @@ name: apache
 owner_org: fundacao-hospitalar-do-estado-de-minas-gerais-fhemig
 profile: data-package
 resources:
-  - description: Insira a descrição/explicação detalhada deste recurso.
+  - description: APACHE 2018
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -33,7 +33,7 @@ resources:
           type: geopoint
     scheme: file
     title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
+  - description: APACHE 2019
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -64,7 +64,7 @@ resources:
           type: geopoint
     scheme: file
     title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
+  - description: APACHE 2020
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -95,7 +95,7 @@ resources:
           type: geopoint
     scheme: file
     title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
+  - description: APACHE 2021
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -126,7 +126,7 @@ resources:
           type: geopoint
     scheme: file
     title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
+  - description: APACHE 2022
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -157,7 +157,7 @@ resources:
           type: geopoint
     scheme: file
     title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
+  - description: APACHE 2023
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -188,7 +188,7 @@ resources:
           type: string
     scheme: file
     title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
+  - description: APACHE 2024
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -219,7 +219,7 @@ resources:
           type: string
     scheme: file
     title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
+  - description: APACHE 2025
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -249,5 +249,5 @@ resources:
         - name: obitos_esperados
           type: geopoint
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-title: Apache
+    title: APACHE 
+title: APACHE
