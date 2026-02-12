@@ -7,7 +7,7 @@ resources:
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: apache_2018
+    name: apache 2018
     path: data/apache_2018.csv
     profile: tabular-data-resource
     schema:
@@ -55,7 +55,7 @@ resources:
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: apache_2019
+    name: apache 2019
     path: data/apache_2019.csv
     profile: tabular-data-resource
     schema:
@@ -103,7 +103,7 @@ resources:
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: apache_2020
+    name: apache 2020
     path: data/apache_2020.csv
     profile: tabular-data-resource
     schema:
@@ -151,7 +151,7 @@ resources:
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: apache_2021
+    name: apache 2021
     path: data/apache_2021.csv
     profile: tabular-data-resource
     schema:
@@ -199,7 +199,7 @@ resources:
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: apache_2022
+    name: apache 2022
     path: data/apache_2022.csv
     profile: tabular-data-resource
     schema:
@@ -247,7 +247,7 @@ resources:
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: apache_2023
+    name: apache 2023
     path: data/apache_2023.csv
     profile: tabular-data-resource
     schema:
@@ -295,7 +295,7 @@ resources:
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: apache_2024
+    name: apache 2024
     path: data/apache_2024.csv
     profile: tabular-data-resource
     schema:
@@ -343,7 +343,7 @@ resources:
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: apache_2025
+    name: apache 2025
     path: data/apache_2025.csv
     profile: tabular-data-resource
     schema:
