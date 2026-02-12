@@ -4,7 +4,7 @@
   "profile": "data-package",
   "resources": [
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "description": "APACHE 2018",
       "dialect": {
         "delimiter": ";"
       },
@@ -58,7 +58,7 @@
       "title": "Insira um título humanamente legível para este recurso."
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "description": "APACHE 2019",
       "dialect": {
         "delimiter": ";"
       },
@@ -112,7 +112,7 @@
       "title": "Insira um título humanamente legível para este recurso."
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "description": "APACHE 2020",
       "dialect": {
         "delimiter": ";"
       },
@@ -166,7 +166,7 @@
       "title": "Insira um título humanamente legível para este recurso."
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "description": "APACHE 2021",
       "dialect": {
         "delimiter": ";"
       },
@@ -220,7 +220,7 @@
       "title": "Insira um título humanamente legível para este recurso."
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "description": "APACHE 2022",
       "dialect": {
         "delimiter": ";"
       },
@@ -274,7 +274,7 @@
       "title": "Insira um título humanamente legível para este recurso."
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "description": "APACHE 2023",
       "dialect": {
         "delimiter": ";"
       },
@@ -328,7 +328,7 @@
       "title": "Insira um título humanamente legível para este recurso."
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "description": "APACHE 2024",
       "dialect": {
         "delimiter": ";"
       },
@@ -382,7 +382,7 @@
       "title": "Insira um título humanamente legível para este recurso."
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "description": "APACHE 2025",
       "dialect": {
         "delimiter": ";"
       },
@@ -433,8 +433,8 @@
         ]
       },
       "scheme": "file",
-      "title": "Insira um título humanamente legível para este recurso."
+      "title": "APACHE"
     }
   ],
-  "title": "Apache"
+  "title": "APACHE"
 }
