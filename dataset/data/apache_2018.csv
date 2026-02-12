@@ -1,0 +1,696 @@
+﻿unidade;mes;ano;grau;escore;predicao_obito;saidas;obitos_ocorridos;obitos_esperados
+HRBJA;janeiro;2018;I;0 a 4;4;0;0;0,0
+HRBJA;janeiro;2018;II;5 a 9;8;1;0;0,08
+HRBJA;janeiro;2018;III;10 a 14;15;4;0;0,6
+HRBJA;janeiro;2018;IV;15 a 19;25;6;0;1,5
+HRBJA;janeiro;2018;V;20 a 24;40;5;2;2,0
+HRBJA;janeiro;2018;VI;25 a 29;55;3;1;1,65
+HRBJA;janeiro;2018;VII;30 a 34;75;2;0;1,5
+HRBJA;janeiro;2018;VIII;> 34;85;3;3;2,55
+HRBJA;fevereiro;2018;I;0 a 4;4;0;0;0,0
+HRBJA;fevereiro;2018;II;5 a 9;8;0;0;0,0
+HRBJA;fevereiro;2018;III;10 a 14;15;2;0;0,3
+HRBJA;fevereiro;2018;IV;15 a 19;25;10;4;2,5
+HRBJA;fevereiro;2018;V;20 a 24;40;7;2;2,8
+HRBJA;fevereiro;2018;VI;25 a 29;55;5;2;2,75
+HRBJA;fevereiro;2018;VII;30 a 34;75;1;1;0,75
+HRBJA;fevereiro;2018;VIII;> 34;85;1;1;0,85
+HRBJA;marÃ§o;2018;I;0 a 4;4;0;0;0,0
+HRBJA;marÃ§o;2018;II;5 a 9;8;1;0;0,08
+HRBJA;marÃ§o;2018;III;10 a 14;15;3;0;0,45
+HRBJA;marÃ§o;2018;IV;15 a 19;25;5;1;1,25
+HRBJA;marÃ§o;2018;V;20 a 24;40;4;0;1,6
+HRBJA;marÃ§o;2018;VI;25 a 29;55;8;3;4,4
+HRBJA;marÃ§o;2018;VII;30 a 34;75;2;1;1,5
+HRBJA;marÃ§o;2018;VIII;> 34;85;1;1;0,85
+HRBJA;abril;2018;I;0 a 4;4;0;0;0,0
+HRBJA;abril;2018;II;5 a 9;8;0;0;0,0
+HRBJA;abril;2018;III;10 a 14;15;5;1;0,75
+HRBJA;abril;2018;IV;15 a 19;25;2;1;0,5
+HRBJA;abril;2018;V;20 a 24;40;5;2;2,0
+HRBJA;abril;2018;VI;25 a 29;55;5;3;2,75
+HRBJA;abril;2018;VII;30 a 34;75;2;2;1,5
+HRBJA;abril;2018;VIII;> 34;85;1;1;0,85
+HRBJA;maio;2018;I;0 a 4;4;0;0;0,0
+HRBJA;maio;2018;II;5 a 9;8;2;0;0,16
+HRBJA;maio;2018;III;10 a 14;15;1;0;0,15
+HRBJA;maio;2018;IV;15 a 19;25;5;2;1,25
+HRBJA;maio;2018;V;20 a 24;40;9;1;3,6
+HRBJA;maio;2018;VI;25 a 29;55;5;1;2,75
+HRBJA;maio;2018;VII;30 a 34;75;7;1;5,25
+HRBJA;maio;2018;VIII;> 34;85;2;2;1,7
+HRBJA;junho;2018;I;0 a 4;4;1;0;0,04
+HRBJA;junho;2018;II;5 a 9;8;0;0;0,0
+HRBJA;junho;2018;III;10 a 14;15;4;0;0,6
+HRBJA;junho;2018;IV;15 a 19;25;3;0;0,75
+HRBJA;junho;2018;V;20 a 24;40;4;1;1,6
+HRBJA;junho;2018;VI;25 a 29;55;6;2;3,3
+HRBJA;junho;2018;VII;30 a 34;75;6;5;4,5
+HRBJA;junho;2018;VIII;> 34;85;1;0;0,85
+HRBJA;agosto;2018;I;0 a 4;4;0;0;0,0
+HRBJA;agosto;2018;II;5 a 9;8;0;0;0,0
+HRBJA;agosto;2018;III;10 a 14;15;0;0;0,0
+HRBJA;agosto;2018;IV;15 a 19;25;3;0;0,75
+HRBJA;agosto;2018;V;20 a 24;40;11;2;4,4
+HRBJA;agosto;2018;VI;25 a 29;55;5;1;2,75
+HRBJA;agosto;2018;VII;30 a 34;75;0;0;0,0
+HRBJA;agosto;2018;VIII;> 34;85;2;2;1,7
+HRBJA;setembro;2018;I;0 a 4;4;0;0;0,0
+HRBJA;setembro;2018;II;5 a 9;8;0;0;0,0
+HRBJA;setembro;2018;III;10 a 14;15;1;0;0,15
+HRBJA;setembro;2018;IV;15 a 19;25;2;0;0,5
+HRBJA;setembro;2018;V;20 a 24;40;1;1;0,4
+HRBJA;setembro;2018;VI;25 a 29;55;4;2;2,2
+HRBJA;setembro;2018;VII;30 a 34;75;2;2;1,5
+HRBJA;setembro;2018;VIII;> 34;85;1;1;0,85
+HRBJA;outubro;2018;I;0 a 4;4;0;0;0,0
+HRBJA;outubro;2018;II;5 a 9;8;0;0;0,0
+HRBJA;outubro;2018;III;10 a 14;15;2;0;0,3
+HRBJA;outubro;2018;IV;15 a 19;25;4;1;1,0
+HRBJA;outubro;2018;V;20 a 24;40;8;2;3,2
+HRBJA;outubro;2018;VI;25 a 29;55;13;7;7,15
+HRBJA;outubro;2018;VII;30 a 34;75;4;2;3,0
+HRBJA;outubro;2018;VIII;> 34;85;0;0;0,0
+HRBJA;dezembro;2018;I;0 a 4;4;0;0;0,0
+HRBJA;dezembro;2018;II;5 a 9;8;0;0;0,0
+HRBJA;dezembro;2018;III;10 a 14;15;3;1;0,45
+HRBJA;dezembro;2018;IV;15 a 19;25;5;1;1,25
+HRBJA;dezembro;2018;V;20 a 24;40;8;0;3,2
+HRBJA;dezembro;2018;VI;25 a 29;55;3;1;1,65
+HRBJA;dezembro;2018;VII;30 a 34;75;4;2;3,0
+HRBJA;dezembro;2018;VIII;> 34;85;2;2;1,7
+HJK;janeiro;2018;I;0 a 4;4;1;0;0,04
+HJK;janeiro;2018;II;5 a 9;8;2;0;0,16
+HJK;janeiro;2018;III;10 a 14;15;15;0;2,25
+HJK;janeiro;2018;IV;15 a 19;25;26;2;6,5
+HJK;janeiro;2018;V;20 a 24;40;16;1;6,4
+HJK;janeiro;2018;VI;25 a 29;55;15;3;8,25
+HJK;janeiro;2018;VII;30 a 34;75;4;2;3,0
+HJK;janeiro;2018;VIII;> 34;85;2;1;1,7
+HJK;fevereiro;2018;I;0 a 4;4;1;0;0,04
+HJK;fevereiro;2018;II;5 a 9;8;3;0;0,24
+HJK;fevereiro;2018;III;10 a 14;15;8;1;1,2
+HJK;fevereiro;2018;IV;15 a 19;25;18;0;4,5
+HJK;fevereiro;2018;V;20 a 24;40;13;3;5,2
+HJK;fevereiro;2018;VI;25 a 29;55;4;1;2,2
+HJK;fevereiro;2018;VII;30 a 34;75;8;5;6,0
+HJK;fevereiro;2018;VIII;> 34;85;2;1;1,7
+HJK;marÃ§o;2018;I;0 a 4;4;2;0;0,08
+HJK;marÃ§o;2018;II;5 a 9;8;4;0;0,32
+HJK;marÃ§o;2018;III;10 a 14;15;12;1;1,8
+HJK;marÃ§o;2018;IV;15 a 19;25;21;1;5,25
+HJK;marÃ§o;2018;V;20 a 24;40;12;0;4,8
+HJK;marÃ§o;2018;VI;25 a 29;55;10;2;5,5
+HJK;marÃ§o;2018;VII;30 a 34;75;7;8;5,25
+HJK;marÃ§o;2018;VIII;> 34;85;2;1;1,7
+HJK;abril;2018;I;0 a 4;4;1;0;0,04
+HJK;abril;2018;II;5 a 9;8;3;0;0,24
+HJK;abril;2018;III;10 a 14;15;13;0;1,95
+HJK;abril;2018;IV;15 a 19;25;23;0;5,75
+HJK;abril;2018;V;20 a 24;40;8;1;3,2
+HJK;abril;2018;VI;25 a 29;55;8;2;4,4
+HJK;abril;2018;VII;30 a 34;75;8;3;6,0
+HJK;abril;2018;VIII;> 34;85;2;2;1,7
+HJK;maio;2018;I;0 a 4;4;0;0;0,0
+HJK;maio;2018;II;5 a 9;8;3;0;0,24
+HJK;maio;2018;III;10 a 14;15;12;0;1,8
+HJK;maio;2018;IV;15 a 19;25;21;2;5,25
+HJK;maio;2018;V;20 a 24;40;17;5;6,8
+HJK;maio;2018;VI;25 a 29;55;12;7;6,6
+HJK;maio;2018;VII;30 a 34;75;11;5;8,25
+HJK;maio;2018;VIII;> 34;85;4;2;3,4
+HJK;junho;2018;I;0 a 4;4;0;0;0,0
+HJK;junho;2018;II;5 a 9;8;2;0;0,16
+HJK;junho;2018;III;10 a 14;15;13;0;1,95
+HJK;junho;2018;IV;15 a 19;25;15;0;3,75
+HJK;junho;2018;V;20 a 24;40;12;0;4,8
+HJK;junho;2018;VI;25 a 29;55;16;2;8,8
+HJK;junho;2018;VII;30 a 34;75;10;4;7,5
+HJK;junho;2018;VIII;> 34;85;1;0;0,85
+HJK;julho;2018;I;0 a 4;4;0;0;0,0
+HJK;julho;2018;II;5 a 9;8;5;0;0,4
+HJK;julho;2018;III;10 a 14;15;20;1;3,0
+HJK;julho;2018;IV;15 a 19;25;14;0;3,5
+HJK;julho;2018;V;20 a 24;40;13;0;5,2
+HJK;julho;2018;VI;25 a 29;55;9;2;4,95
+HJK;julho;2018;VII;30 a 34;75;10;5;7,5
+HJK;julho;2018;VIII;> 34;85;13;3;11,05
+HJK;agosto;2018;I;0 a 4;4;0;0;0,0
+HJK;agosto;2018;II;5 a 9;8;5;0;0,4
+HJK;agosto;2018;III;10 a 14;15;20;1;3,0
+HJK;agosto;2018;IV;15 a 19;25;18;2;4,5
+HJK;agosto;2018;V;20 a 24;40;11;2;4,4
+HJK;agosto;2018;VI;25 a 29;55;6;1;3,3
+HJK;agosto;2018;VII;30 a 34;75;6;2;4,5
+HJK;agosto;2018;VIII;> 34;85;2;2;1,7
+HJK;setembro;2018;I;0 a 4;4;0;0;0,0
+HJK;setembro;2018;II;5 a 9;8;5;0;0,4
+HJK;setembro;2018;III;10 a 14;15;15;1;2,25
+HJK;setembro;2018;IV;15 a 19;25;24;4;6,0
+HJK;setembro;2018;V;20 a 24;40;15;5;6,0
+HJK;setembro;2018;VI;25 a 29;55;9;3;4,95
+HJK;setembro;2018;VII;30 a 34;75;9;5;6,75
+HJK;setembro;2018;VIII;> 34;85;2;1;1,7
+HJK;outubro;2018;I;0 a 4;4;0;0;0,0
+HJK;outubro;2018;II;5 a 9;8;10;0;0,8
+HJK;outubro;2018;III;10 a 14;15;25;1;3,75
+HJK;outubro;2018;IV;15 a 19;25;14;4;3,5
+HJK;outubro;2018;V;20 a 24;40;12;2;4,8
+HJK;outubro;2018;VI;25 a 29;55;6;0;3,3
+HJK;outubro;2018;VII;30 a 34;75;2;2;1,5
+HJK;outubro;2018;VIII;> 34;85;3;1;2,55
+HJK;novembro;2018;I;0 a 4;4;1;0;0,04
+HJK;novembro;2018;II;5 a 9;8;6;0;0,48
+HJK;novembro;2018;III;10 a 14;15;24;2;3,6
+HJK;novembro;2018;IV;15 a 19;25;15;1;3,75
+HJK;novembro;2018;V;20 a 24;40;17;3;6,8
+HJK;novembro;2018;VI;25 a 29;55;7;4;3,85
+HJK;novembro;2018;VII;30 a 34;75;4;2;3,0
+HJK;novembro;2018;VIII;> 34;85;3;2;2,55
+HRAD;janeiro;2018;I;0 a 4;4;0;0;0,0
+HRAD;janeiro;2018;II;5 a 9;8;1;0;0,08
+HRAD;janeiro;2018;III;10 a 14;15;1;0;0,15
+HRAD;janeiro;2018;IV;15 a 19;25;6;1;1,5
+HRAD;janeiro;2018;V;20 a 24;40;5;2;2,0
+HRAD;janeiro;2018;VI;25 a 29;55;2;2;1,1
+HRAD;janeiro;2018;VII;30 a 34;75;2;0;1,5
+HRAD;janeiro;2018;VIII;> 34;85;0;0;0,0
+HRAD;fevereiro;2018;I;0 a 4;4;0;0;0,0
+HRAD;fevereiro;2018;II;5 a 9;8;1;0;0,08
+HRAD;fevereiro;2018;III;10 a 14;15;3;1;0,45
+HRAD;fevereiro;2018;IV;15 a 19;25;3;0;0,75
+HRAD;fevereiro;2018;V;20 a 24;40;2;1;0,8
+HRAD;fevereiro;2018;VI;25 a 29;55;3;1;1,65
+HRAD;fevereiro;2018;VII;30 a 34;75;1;1;0,75
+HRAD;fevereiro;2018;VIII;> 34;85;1;1;0,85
+HRAD;marÃ§o;2018;I;0 a 4;4;0;0;0,0
+HRAD;marÃ§o;2018;II;5 a 9;8;0;1;0,0
+HRAD;marÃ§o;2018;III;10 a 14;15;2;0;0,3
+HRAD;marÃ§o;2018;IV;15 a 19;25;6;0;1,5
+HRAD;marÃ§o;2018;V;20 a 24;40;3;1;1,2
+HRAD;marÃ§o;2018;VI;25 a 29;55;1;3;0,55
+HRAD;marÃ§o;2018;VII;30 a 34;75;0;0;0,0
+HRAD;marÃ§o;2018;VIII;> 34;85;0;0;0,0
+HRAD;abril;2018;I;0 a 4;4;0;0;0,0
+HRAD;abril;2018;II;5 a 9;8;0;0;0,0
+HRAD;abril;2018;III;10 a 14;15;1;0;0,15
+HRAD;abril;2018;IV;15 a 19;25;5;3;1,25
+HRAD;abril;2018;V;20 a 24;40;4;2;1,6
+HRAD;abril;2018;VI;25 a 29;55;3;2;1,65
+HRAD;abril;2018;VII;30 a 34;75;0;0;0,0
+HRAD;abril;2018;VIII;> 34;85;0;0;0,0
+HRAD;maio;2018;I;0 a 4;4;0;0;0,0
+HRAD;maio;2018;II;5 a 9;8;1;0;0,08
+HRAD;maio;2018;III;10 a 14;15;6;0;0,9
+HRAD;maio;2018;IV;15 a 19;25;1;1;0,25
+HRAD;maio;2018;V;20 a 24;40;2;1;0,8
+HRAD;maio;2018;VI;25 a 29;55;1;1;0,55
+HRAD;maio;2018;VII;30 a 34;75;1;1;0,75
+HRAD;maio;2018;VIII;> 34;85;0;0;0,0
+HRAD;junho;2018;I;0 a 4;4;0;0;0,0
+HRAD;junho;2018;II;5 a 9;8;2;0;0,16
+HRAD;junho;2018;III;10 a 14;15;3;1;0,45
+HRAD;junho;2018;IV;15 a 19;25;6;1;1,5
+HRAD;junho;2018;V;20 a 24;40;4;1;1,6
+HRAD;junho;2018;VI;25 a 29;55;4;1;2,2
+HRAD;junho;2018;VII;30 a 34;75;1;0;0,75
+HRAD;junho;2018;VIII;> 34;85;1;0;0,85
+HRAD;julho;2018;I;0 a 4;4;0;0;0,0
+HRAD;julho;2018;II;5 a 9;8;1;0;0,08
+HRAD;julho;2018;III;10 a 14;15;7;2;1,05
+HRAD;julho;2018;IV;15 a 19;25;5;1;1,25
+HRAD;julho;2018;V;20 a 24;40;4;2;1,6
+HRAD;julho;2018;VI;25 a 29;55;5;1;2,75
+HRAD;julho;2018;VII;30 a 34;75;3;2;2,25
+HRAD;julho;2018;VIII;> 34;85;1;1;0,85
+HRAD;agosto;2018;I;0 a 4;4;0;0;0,0
+HRAD;agosto;2018;II;5 a 9;8;3;0;0,24
+HRAD;agosto;2018;III;10 a 14;15;4;0;0,6
+HRAD;agosto;2018;IV;15 a 19;25;8;2;2,0
+HRAD;agosto;2018;V;20 a 24;40;1;1;0,4
+HRAD;agosto;2018;VI;25 a 29;55;2;2;1,1
+HRAD;agosto;2018;VII;30 a 34;75;2;2;1,5
+HRAD;agosto;2018;VIII;> 34;85;0;0;0,0
+HRAD;setembro;2018;I;0 a 4;4;0;0;0,0
+HRAD;setembro;2018;II;5 a 9;8;2;0;0,16
+HRAD;setembro;2018;III;10 a 14;15;2;0;0,3
+HRAD;setembro;2018;IV;15 a 19;25;5;0;1,25
+HRAD;setembro;2018;V;20 a 24;40;11;1;4,4
+HRAD;setembro;2018;VI;25 a 29;55;3;2;1,65
+HRAD;setembro;2018;VII;30 a 34;75;0;0;0,0
+HRAD;setembro;2018;VIII;> 34;85;0;0;0,0
+HRAD;outubro;2018;I;0 a 4;4;0;0;0,0
+HRAD;outubro;2018;II;5 a 9;8;2;1;0,16
+HRAD;outubro;2018;III;10 a 14;15;1;0;0,15
+HRAD;outubro;2018;IV;15 a 19;25;9;1;2,25
+HRAD;outubro;2018;V;20 a 24;40;9;4;3,6
+HRAD;outubro;2018;VI;25 a 29;55;2;1;1,1
+HRAD;outubro;2018;VII;30 a 34;75;2;1;1,5
+HRAD;outubro;2018;VIII;> 34;85;0;0;0,0
+HRAD;novembro;2018;I;0 a 4;4;0;0;0,0
+HRAD;novembro;2018;II;5 a 9;8;2;1;0,16
+HRAD;novembro;2018;III;10 a 14;15;5;0;0,75
+HRAD;novembro;2018;IV;15 a 19;25;5;1;1,25
+HRAD;novembro;2018;V;20 a 24;40;3;0;1,2
+HRAD;novembro;2018;VI;25 a 29;55;2;1;1,1
+HRAD;novembro;2018;VII;30 a 34;75;1;1;0,75
+HRAD;novembro;2018;VIII;> 34;85;0;0;0,0
+HRAD;dezembro;2018;I;0 a 4;4;0;0;0,0
+HRAD;dezembro;2018;II;5 a 9;8;3;0;0,24
+HRAD;dezembro;2018;III;10 a 14;15;5;1;0,75
+HRAD;dezembro;2018;IV;15 a 19;25;10;0;2,5
+HRAD;dezembro;2018;V;20 a 24;40;8;0;3,2
+HRAD;dezembro;2018;VI;25 a 29;55;1;0;0,55
+HRAD;dezembro;2018;VII;30 a 34;75;2;1;1,5
+HRAD;dezembro;2018;VIII;> 34;85;0;0;0,0
+HJXXIII;janeiro;2018;I;0 a 4;4;7;0;0,28
+HJXXIII;janeiro;2018;II;5 a 9;8;16;0;1,28
+HJXXIII;janeiro;2018;III;10 a 14;15;22;1;3,3
+HJXXIII;janeiro;2018;IV;15 a 19;25;29;5;7,25
+HJXXIII;janeiro;2018;V;20 a 24;40;16;5;6,4
+HJXXIII;janeiro;2018;VI;25 a 29;55;12;2;6,6
+HJXXIII;janeiro;2018;VII;30 a 34;75;8;4;6,0
+HJXXIII;janeiro;2018;VIII;> 34;85;3;1;2,55
+HJXXIII;fevereiro;2018;I;0 a 4;4;9;1;0,36
+HJXXIII;fevereiro;2018;II;5 a 9;8;8;0;0,64
+HJXXIII;fevereiro;2018;III;10 a 14;15;17;1;2,55
+HJXXIII;fevereiro;2018;IV;15 a 19;25;25;4;6,25
+HJXXIII;fevereiro;2018;V;20 a 24;40;18;5;7,2
+HJXXIII;fevereiro;2018;VI;25 a 29;55;9;4;4,95
+HJXXIII;fevereiro;2018;VII;30 a 34;75;6;2;4,5
+HJXXIII;fevereiro;2018;VIII;> 34;85;2;0;1,7
+HJXXIII;marÃ§o;2018;I;0 a 4;4;8;0;0,32
+HJXXIII;marÃ§o;2018;II;5 a 9;8;11;0;0,88
+HJXXIII;marÃ§o;2018;III;10 a 14;15;18;0;2,7
+HJXXIII;marÃ§o;2018;IV;15 a 19;25;21;1;5,25
+HJXXIII;marÃ§o;2018;V;20 a 24;40;18;7;7,2
+HJXXIII;marÃ§o;2018;VI;25 a 29;55;17;6;9,35
+HJXXIII;marÃ§o;2018;VII;30 a 34;75;3;1;2,25
+HJXXIII;marÃ§o;2018;VIII;> 34;85;1;1;0,85
+HJXXIII;abril;2018;I;0 a 4;4;8;0;0,32
+HJXXIII;abril;2018;II;5 a 9;8;13;0;1,04
+HJXXIII;abril;2018;III;10 a 14;15;16;1;2,4
+HJXXIII;abril;2018;IV;15 a 19;25;25;1;6,25
+HJXXIII;abril;2018;V;20 a 24;40;19;9;7,6
+HJXXIII;abril;2018;VI;25 a 29;55;18;5;9,9
+HJXXIII;abril;2018;VII;30 a 34;75;5;3;3,75
+HJXXIII;abril;2018;VIII;> 34;85;4;4;3,4
+HJXXIII;maio;2018;I;0 a 4;4;6;0;0,24
+HJXXIII;maio;2018;II;5 a 9;8;9;1;0,72
+HJXXIII;maio;2018;III;10 a 14;15;23;0;3,45
+HJXXIII;maio;2018;IV;15 a 19;25;20;5;5,0
+HJXXIII;maio;2018;V;20 a 24;40;12;3;4,8
+HJXXIII;maio;2018;VI;25 a 29;55;19;5;10,45
+HJXXIII;maio;2018;VII;30 a 34;75;8;4;6,0
+HJXXIII;maio;2018;VIII;> 34;85;2;1;1,7
+HJXXIII;junho;2018;I;0 a 4;4;5;0;0,2
+HJXXIII;junho;2018;II;5 a 9;8;15;0;1,2
+HJXXIII;junho;2018;III;10 a 14;15;25;1;3,75
+HJXXIII;junho;2018;IV;15 a 19;25;31;4;7,75
+HJXXIII;junho;2018;V;20 a 24;40;14;6;5,6
+HJXXIII;junho;2018;VI;25 a 29;55;14;6;7,7
+HJXXIII;junho;2018;VII;30 a 34;75;5;1;3,75
+HJXXIII;junho;2018;VIII;> 34;85;2;1;1,7
+HJXXIII;julho;2018;I;0 a 4;4;12;0;0,48
+HJXXIII;julho;2018;II;5 a 9;8;16;2;1,28
+HJXXIII;julho;2018;III;10 a 14;15;27;0;4,05
+HJXXIII;julho;2018;IV;15 a 19;25;28;4;7,0
+HJXXIII;julho;2018;V;20 a 24;40;17;5;6,8
+HJXXIII;julho;2018;VI;25 a 29;55;7;2;3,85
+HJXXIII;julho;2018;VII;30 a 34;75;4;3;3,0
+HJXXIII;julho;2018;VIII;> 34;85;3;1;2,55
+HJXXIII;agosto;2018;I;0 a 4;4;13;0;0,52
+HJXXIII;agosto;2018;II;5 a 9;8;17;1;1,36
+HJXXIII;agosto;2018;III;10 a 14;15;47;6;7,05
+HJXXIII;agosto;2018;IV;15 a 19;25;16;3;4,0
+HJXXIII;agosto;2018;V;20 a 24;40;16;10;6,4
+HJXXIII;agosto;2018;VI;25 a 29;55;5;2;2,75
+HJXXIII;agosto;2018;VII;30 a 34;75;2;0;1,5
+HJXXIII;agosto;2018;VIII;> 34;85;1;1;0,85
+HJXXIII;setembro;2018;II;5 a 9;8;2;0;0,16
+HJXXIII;setembro;2018;III;10 a 14;15;17;1;2,55
+HJXXIII;setembro;2018;IV;15 a 19;25;37;0;9,25
+HJXXIII;setembro;2018;V;20 a 24;40;33;5;13,2
+HJXXIII;setembro;2018;VI;25 a 29;55;22;10;12,1
+HJXXIII;setembro;2018;VII;30 a 34;75;6;4;4,5
+HJXXIII;setembro;2018;VIII;> 34;85;1;1;0,85
+HJXXIII;outubro;2018;I;0 a 4;4;3;0;0,12
+HJXXIII;outubro;2018;II;5 a 9;8;10;0;0,8
+HJXXIII;outubro;2018;III;10 a 14;15;26;3;3,9
+HJXXIII;outubro;2018;IV;15 a 19;25;33;4;8,25
+HJXXIII;outubro;2018;V;20 a 24;40;22;1;8,8
+HJXXIII;outubro;2018;VI;25 a 29;55;7;3;3,85
+HJXXIII;outubro;2018;VII;30 a 34;75;2;2;1,5
+HJXXIII;outubro;2018;VIII;> 34;85;0;0;0,0
+HJXXIII;novembro;2018;I;0 a 4;4;6;0;0,24
+HJXXIII;novembro;2018;II;5 a 9;8;11;0;0,88
+HJXXIII;novembro;2018;III;10 a 14;15;25;1;3,75
+HJXXIII;novembro;2018;IV;15 a 19;25;33;7;8,25
+HJXXIII;novembro;2018;V;20 a 24;40;12;3;4,8
+HJXXIII;novembro;2018;VI;25 a 29;55;7;4;3,85
+HJXXIII;novembro;2018;VII;30 a 34;75;4;2;3,0
+HJXXIII;novembro;2018;VIII;> 34;85;2;2;1,7
+HJXXIII;dezembro;2018;I;0 a 4;4;6;0;0,24
+HJXXIII;dezembro;2018;II;5 a 9;8;23;1;1,84
+HJXXIII;dezembro;2018;III;10 a 14;15;25;3;3,75
+HJXXIII;dezembro;2018;IV;15 a 19;25;39;8;9,75
+HJXXIII;dezembro;2018;V;20 a 24;40;17;8;6,8
+HJXXIII;dezembro;2018;VI;25 a 29;55;9;4;4,95
+HJXXIII;dezembro;2018;VII;30 a 34;75;3;1;2,25
+HJXXIII;dezembro;2018;VIII;> 34;85;0;0;0,0
+HEM;janeiro;2018;I;0 a 4;4;0;0;0,0
+HEM;janeiro;2018;II;5 a 9;8;5;0;0,4
+HEM;janeiro;2018;III;10 a 14;15;10;2;1,5
+HEM;janeiro;2018;IV;15 a 19;25;14;4;3,5
+HEM;janeiro;2018;V;20 a 24;40;16;11;6,4
+HEM;janeiro;2018;VI;25 a 29;55;5;4;2,75
+HEM;janeiro;2018;VII;30 a 34;75;5;5;3,75
+HEM;janeiro;2018;VIII;> 34;85;5;5;4,25
+HEM;fevereiro;2018;I;0 a 4;4;2;0;0,08
+HEM;fevereiro;2018;II;5 a 9;8;11;1;0,88
+HEM;fevereiro;2018;III;10 a 14;15;21;1;3,15
+HEM;fevereiro;2018;IV;15 a 19;25;15;5;3,75
+HEM;fevereiro;2018;V;20 a 24;40;7;7;2,8
+HEM;fevereiro;2018;VI;25 a 29;55;3;1;1,65
+HEM;fevereiro;2018;VII;30 a 34;75;0;0;0,0
+HEM;fevereiro;2018;VIII;> 34;85;1;0;0,85
+HEM;marÃ§o;2018;I;0 a 4;4;2;0;0,08
+HEM;marÃ§o;2018;II;5 a 9;8;11;1;0,88
+HEM;marÃ§o;2018;III;10 a 14;15;12;1;1,8
+HEM;marÃ§o;2018;IV;15 a 19;25;10;3;2,5
+HEM;marÃ§o;2018;V;20 a 24;40;5;2;2,0
+HEM;marÃ§o;2018;VI;25 a 29;55;6;5;3,3
+HEM;marÃ§o;2018;VII;30 a 34;75;0;0;0,0
+HEM;marÃ§o;2018;VIII;> 34;85;1;1;0,85
+HEM;abril;2018;I;0 a 4;4;0;0;0,0
+HEM;abril;2018;II;5 a 9;8;2;0;0,16
+HEM;abril;2018;III;10 a 14;15;6;0;0,9
+HEM;abril;2018;IV;15 a 19;25;4;0;1,0
+HEM;abril;2018;V;20 a 24;40;8;1;3,2
+HEM;abril;2018;VI;25 a 29;55;4;0;2,2
+HEM;abril;2018;VII;30 a 34;75;3;2;2,25
+HEM;abril;2018;VIII;> 34;85;4;2;3,4
+HEM;maio;2018;I;0 a 4;4;0;0;0,0
+HEM;maio;2018;II;5 a 9;8;1;0;0,08
+HEM;maio;2018;III;10 a 14;15;3;0;0,45
+HEM;maio;2018;IV;15 a 19;25;8;3;2,0
+HEM;maio;2018;V;20 a 24;40;7;1;2,8
+HEM;maio;2018;VI;25 a 29;55;1;1;0,55
+HEM;maio;2018;VII;30 a 34;75;3;2;2,25
+HEM;maio;2018;VIII;> 34;85;3;2;2,55
+HEM;junho;2018;I;0 a 4;4;0;0;0,0
+HEM;junho;2018;II;5 a 9;8;2;0;0,16
+HEM;junho;2018;III;10 a 14;15;3;0;0,45
+HEM;junho;2018;IV;15 a 19;25;6;2;1,5
+HEM;junho;2018;V;20 a 24;40;11;4;4,4
+HEM;junho;2018;VI;25 a 29;55;5;2;2,75
+HEM;junho;2018;VII;30 a 34;75;6;4;4,5
+HEM;junho;2018;VIII;> 34;85;2;2;1,7
+HEM;julho;2018;I;0 a 4;4;0;0;0,0
+HEM;julho;2018;II;5 a 9;8;0;0;0,0
+HEM;julho;2018;III;10 a 14;15;7;1;1,05
+HEM;julho;2018;IV;15 a 19;25;6;1;1,5
+HEM;julho;2018;V;20 a 24;40;4;3;1,6
+HEM;julho;2018;VI;25 a 29;55;3;1;1,65
+HEM;julho;2018;VII;30 a 34;75;2;1;1,5
+HEM;julho;2018;VIII;> 34;85;1;1;0,85
+HEM;agosto;2018;I;0 a 4;4;0;0;0,0
+HEM;agosto;2018;II;5 a 9;8;1;0;0,08
+HEM;agosto;2018;III;10 a 14;15;4;0;0,6
+HEM;agosto;2018;IV;15 a 19;25;6;2;1,5
+HEM;agosto;2018;V;20 a 24;40;10;5;4,0
+HEM;agosto;2018;VI;25 a 29;55;6;4;3,3
+HEM;agosto;2018;VII;30 a 34;75;1;1;0,75
+HEM;agosto;2018;VIII;> 34;85;3;3;2,55
+HEM;setembro;2018;I;0 a 4;4;0;0;0,0
+HEM;setembro;2018;II;5 a 9;8;1;0;0,08
+HEM;setembro;2018;III;10 a 14;15;5;0;0,75
+HEM;setembro;2018;IV;15 a 19;25;5;0;1,25
+HEM;setembro;2018;V;20 a 24;40;6;3;2,4
+HEM;setembro;2018;VI;25 a 29;55;2;0;1,1
+HEM;setembro;2018;VII;30 a 34;75;3;1;2,25
+HEM;setembro;2018;VIII;> 34;85;3;2;2,55
+HEM;outubro;2018;I;0 a 4;4;2;0;0,08
+HEM;outubro;2018;II;5 a 9;8;2;0;0,16
+HEM;outubro;2018;III;10 a 14;15;2;0;0,3
+HEM;outubro;2018;IV;15 a 19;25;11;0;2,75
+HEM;outubro;2018;V;20 a 24;40;7;1;2,8
+HEM;outubro;2018;VI;25 a 29;55;1;0;0,55
+HEM;outubro;2018;VII;30 a 34;75;1;1;0,75
+HEM;outubro;2018;VIII;> 34;85;2;2;1,7
+HEM;novembro;2018;I;0 a 4;4;0;0;0,0
+HEM;novembro;2018;II;5 a 9;8;0;0;0,0
+HEM;novembro;2018;III;10 a 14;15;6;1;0,9
+HEM;novembro;2018;IV;15 a 19;25;5;2;1,25
+HEM;novembro;2018;V;20 a 24;40;4;1;1,6
+HEM;novembro;2018;VI;25 a 29;55;4;2;2,2
+HEM;novembro;2018;VII;30 a 34;75;1;1;0,75
+HEM;novembro;2018;VIII;> 34;85;3;0;2,55
+HEM;dezembro;2018;I;0 a 4;4;0;0;0,0
+HEM;dezembro;2018;II;5 a 9;8;1;0;0,08
+HEM;dezembro;2018;III;10 a 14;15;6;2;0,9
+HEM;dezembro;2018;IV;15 a 19;25;7;3;1,75
+HEM;dezembro;2018;V;20 a 24;40;9;1;3,6
+HEM;dezembro;2018;VI;25 a 29;55;3;1;1,65
+HEM;dezembro;2018;VII;30 a 34;75;2;0;1,5
+HEM;dezembro;2018;VIII;> 34;85;2;0;1,7
+HAC;janeiro;2018;I;0 a 4;4;1;0;0,04
+HAC;janeiro;2018;II;5 a 9;8;7;0;0,56
+HAC;janeiro;2018;III;10 a 14;15;5;0;0,75
+HAC;janeiro;2018;IV;15 a 19;25;3;1;0,75
+HAC;janeiro;2018;V;20 a 24;40;5;0;2,0
+HAC;janeiro;2018;VI;25 a 29;55;3;0;1,65
+HAC;janeiro;2018;VII;30 a 34;75;1;1;0,75
+HAC;janeiro;2018;VIII;> 34;85;1;1;0,85
+HAC;fevereiro;2018;I;0 a 4;4;1;0;0,04
+HAC;fevereiro;2018;II;5 a 9;8;0;0;0,0
+HAC;fevereiro;2018;III;10 a 14;15;4;0;0,6
+HAC;fevereiro;2018;IV;15 a 19;25;1;0;0,25
+HAC;fevereiro;2018;V;20 a 24;40;0;0;0,0
+HAC;fevereiro;2018;VI;25 a 29;55;1;0;0,55
+HAC;fevereiro;2018;VII;30 a 34;75;0;0;0,0
+HAC;fevereiro;2018;VIII;> 34;85;2;2;1,7
+HAC;marÃ§o;2018;I;0 a 4;4;2;0;0,08
+HAC;marÃ§o;2018;II;5 a 9;8;5;0;0,4
+HAC;marÃ§o;2018;III;10 a 14;15;13;0;1,95
+HAC;marÃ§o;2018;IV;15 a 19;25;7;1;1,75
+HAC;marÃ§o;2018;V;20 a 24;40;6;1;2,4
+HAC;marÃ§o;2018;VI;25 a 29;55;2;1;1,1
+HAC;marÃ§o;2018;VII;30 a 34;75;1;1;0,75
+HAC;marÃ§o;2018;VIII;> 34;85;1;1;0,85
+HAC;abril;2018;I;0 a 4;4;0;0;0,0
+HAC;abril;2018;II;5 a 9;8;6;0;0,48
+HAC;abril;2018;III;10 a 14;15;1;0;0,15
+HAC;abril;2018;IV;15 a 19;25;7;1;1,75
+HAC;abril;2018;V;20 a 24;40;8;2;3,2
+HAC;abril;2018;VI;25 a 29;55;1;0;0,55
+HAC;abril;2018;VII;30 a 34;75;0;0;0,0
+HAC;abril;2018;VIII;> 34;85;1;1;0,85
+HAC;maio;2018;I;0 a 4;4;0;0;0,0
+HAC;maio;2018;II;5 a 9;8;2;0;0,16
+HAC;maio;2018;III;10 a 14;15;4;0;0,6
+HAC;maio;2018;IV;15 a 19;25;3;0;0,75
+HAC;maio;2018;V;20 a 24;40;5;2;2,0
+HAC;maio;2018;VI;25 a 29;55;0;0;0,0
+HAC;maio;2018;VII;30 a 34;75;1;1;0,75
+HAC;maio;2018;VIII;> 34;85;0;0;0,0
+HAC;junho;2018;I;0 a 4;4;0;0;0,0
+HAC;junho;2018;II;5 a 9;8;1;1;0,08
+HAC;junho;2018;III;10 a 14;15;3;0;0,45
+HAC;junho;2018;IV;15 a 19;25;2;0;0,5
+HAC;junho;2018;V;20 a 24;40;3;2;1,2
+HAC;junho;2018;VI;25 a 29;55;1;1;0,55
+HAC;junho;2018;VII;30 a 34;75;1;1;0,75
+HAC;junho;2018;VIII;> 34;85;0;0;0,0
+HAC;julho;2018;I;0 a 4;4;2;0;0,08
+HAC;julho;2018;II;5 a 9;8;3;0;0,24
+HAC;julho;2018;III;10 a 14;15;5;0;0,75
+HAC;julho;2018;IV;15 a 19;25;5;2;1,25
+HAC;julho;2018;V;20 a 24;40;3;0;1,2
+HAC;julho;2018;VI;25 a 29;55;4;2;2,2
+HAC;julho;2018;VII;30 a 34;75;2;1;1,5
+HAC;julho;2018;VIII;> 34;85;1;1;0,85
+HAC;agosto;2018;I;0 a 4;4;2;0;0,08
+HAC;agosto;2018;II;5 a 9;8;4;1;0,32
+HAC;agosto;2018;III;10 a 14;15;13;0;1,95
+HAC;agosto;2018;IV;15 a 19;25;12;0;3,0
+HAC;agosto;2018;V;20 a 24;40;5;1;2,0
+HAC;agosto;2018;VI;25 a 29;55;0;0;0,0
+HAC;agosto;2018;VII;30 a 34;75;1;0;0,75
+HAC;agosto;2018;VIII;> 34;85;0;0;0,0
+HAC;setembro;2018;I;0 a 4;4;3;0;0,12
+HAC;setembro;2018;II;5 a 9;8;7;0;0,56
+HAC;setembro;2018;III;10 a 14;15;10;0;1,5
+HAC;setembro;2018;IV;15 a 19;25;5;0;1,25
+HAC;setembro;2018;V;20 a 24;40;3;0;1,2
+HAC;setembro;2018;VI;25 a 29;55;1;0;0,55
+HAC;setembro;2018;VII;30 a 34;75;1;0;0,75
+HAC;setembro;2018;VIII;> 34;85;0;0;0,0
+HAC;outubro;2018;I;0 a 4;4;0;0;0,0
+HAC;outubro;2018;II;5 a 9;8;1;0;0,08
+HAC;outubro;2018;III;10 a 14;15;6;2;0,9
+HAC;outubro;2018;IV;15 a 19;25;5;1;1,25
+HAC;outubro;2018;V;20 a 24;40;2;0;0,8
+HAC;outubro;2018;VI;25 a 29;55;1;0;0,55
+HAC;outubro;2018;VII;30 a 34;75;1;1;0,75
+HAC;outubro;2018;VIII;> 34;85;0;0;0,0
+HAC;novembro;2018;I;0 a 4;4;0;0;0,0
+HAC;novembro;2018;II;5 a 9;8;12;0;0,96
+HAC;novembro;2018;III;10 a 14;15;8;0;1,2
+HAC;novembro;2018;IV;15 a 19;25;3;0;0,75
+HAC;novembro;2018;V;20 a 24;40;5;1;2,0
+HAC;novembro;2018;VI;25 a 29;55;3;2;1,65
+HAC;novembro;2018;VII;30 a 34;75;1;0;0,75
+HAC;novembro;2018;VIII;> 34;85;1;1;0,85
+HRJP;janeiro;2018;I;0 a 4;4;2;0;0,08
+HRJP;janeiro;2018;II;5 a 9;8;4;0;0,32
+HRJP;janeiro;2018;III;10 a 14;15;3;1;0,45
+HRJP;janeiro;2018;IV;15 a 19;25;5;0;1,25
+HRJP;janeiro;2018;V;20 a 24;40;1;1;0,4
+HRJP;janeiro;2018;VI;25 a 29;55;0;0;0,0
+HRJP;janeiro;2018;VII;30 a 34;75;2;1;1,5
+HRJP;janeiro;2018;VIII;> 34;85;1;1;0,85
+HRJP;fevereiro;2018;I;0 a 4;4;1;0;0,04
+HRJP;fevereiro;2018;II;5 a 9;8;1;0;0,08
+HRJP;fevereiro;2018;III;10 a 14;15;0;0;0,0
+HRJP;fevereiro;2018;IV;15 a 19;25;4;2;1,0
+HRJP;fevereiro;2018;V;20 a 24;40;3;0;1,2
+HRJP;fevereiro;2018;VI;25 a 29;55;3;2;1,65
+HRJP;fevereiro;2018;VII;30 a 34;75;2;1;1,5
+HRJP;fevereiro;2018;VIII;> 34;85;1;0;0,85
+HRJP;marÃ§o;2018;I;0 a 4;4;2;0;0,08
+HRJP;marÃ§o;2018;II;5 a 9;8;6;0;0,48
+HRJP;marÃ§o;2018;III;10 a 14;15;4;2;0,6
+HRJP;marÃ§o;2018;IV;15 a 19;25;2;0;0,5
+HRJP;marÃ§o;2018;V;20 a 24;40;3;0;1,2
+HRJP;marÃ§o;2018;VI;25 a 29;55;4;1;2,2
+HRJP;marÃ§o;2018;VII;30 a 34;75;1;0;0,75
+HRJP;marÃ§o;2018;VIII;> 34;85;0;0;0,0
+HRJP;abril;2018;I;0 a 4;4;4;0;0,16
+HRJP;abril;2018;II;5 a 9;8;4;0;0,32
+HRJP;abril;2018;III;10 a 14;15;2;0;0,3
+HRJP;abril;2018;IV;15 a 19;25;3;0;0,75
+HRJP;abril;2018;V;20 a 24;40;4;0;1,6
+HRJP;abril;2018;VI;25 a 29;55;2;1;1,1
+HRJP;abril;2018;VII;30 a 34;75;0;0;0,0
+HRJP;abril;2018;VIII;> 34;85;0;0;0,0
+HRJP;maio;2018;I;0 a 4;4;3;0;0,12
+HRJP;maio;2018;II;5 a 9;8;3;1;0,24
+HRJP;maio;2018;III;10 a 14;15;4;0;0,6
+HRJP;maio;2018;IV;15 a 19;25;7;0;1,75
+HRJP;maio;2018;V;20 a 24;40;4;1;1,6
+HRJP;maio;2018;VI;25 a 29;55;2;1;1,1
+HRJP;maio;2018;VII;30 a 34;75;0;0;0,0
+HRJP;maio;2018;VIII;> 34;85;0;0;0,0
+HRJP;junho;2018;I;0 a 4;4;6;0;0,24
+HRJP;junho;2018;II;5 a 9;8;1;0;0,08
+HRJP;junho;2018;III;10 a 14;15;5;0;0,75
+HRJP;junho;2018;IV;15 a 19;25;6;1;1,5
+HRJP;junho;2018;V;20 a 24;40;5;1;2,0
+HRJP;junho;2018;VI;25 a 29;55;1;0;0,55
+HRJP;junho;2018;VII;30 a 34;75;0;0;0,0
+HRJP;junho;2018;VIII;> 34;85;1;1;0,85
+HRJP;julho;2018;I;0 a 4;4;5;1;0,2
+HRJP;julho;2018;II;5 a 9;8;2;0;0,16
+HRJP;julho;2018;III;10 a 14;15;4;0;0,6
+HRJP;julho;2018;IV;15 a 19;25;5;1;1,25
+HRJP;julho;2018;V;20 a 24;40;3;0;1,2
+HRJP;julho;2018;VI;25 a 29;55;1;0;0,55
+HRJP;julho;2018;VII;30 a 34;75;0;0;0,0
+HRJP;julho;2018;VIII;> 34;85;0;0;0,0
+HRJP;agosto;2018;I;0 a 4;4;1;0;0,04
+HRJP;agosto;2018;II;5 a 9;8;5;0;0,4
+HRJP;agosto;2018;III;10 a 14;15;4;0;0,6
+HRJP;agosto;2018;IV;15 a 19;25;5;0;1,25
+HRJP;agosto;2018;V;20 a 24;40;7;2;2,8
+HRJP;agosto;2018;VI;25 a 29;55;1;0;0,55
+HRJP;agosto;2018;VII;30 a 34;75;2;1;1,5
+HRJP;agosto;2018;VIII;> 34;85;0;0;0,0
+HRJP;setembro;2018;I;0 a 4;4;1;0;0,04
+HRJP;setembro;2018;II;5 a 9;8;5;0;0,4
+HRJP;setembro;2018;III;10 a 14;15;5;0;0,75
+HRJP;setembro;2018;IV;15 a 19;25;3;1;0,75
+HRJP;setembro;2018;V;20 a 24;40;3;1;1,2
+HRJP;setembro;2018;VI;25 a 29;55;2;2;1,1
+HRJP;setembro;2018;VII;30 a 34;75;0;0;0,0
+HRJP;setembro;2018;VIII;> 34;85;1;0;0,85
+HRJP;outubro;2018;I;0 a 4;4;0;0;0,0
+HRJP;outubro;2018;II;5 a 9;8;5;1;0,4
+HRJP;outubro;2018;III;10 a 14;15;12;2;1,8
+HRJP;outubro;2018;IV;15 a 19;25;11;1;2,75
+HRJP;outubro;2018;V;20 a 24;40;0;0;0,0
+HRJP;outubro;2018;VI;25 a 29;55;0;0;0,0
+HRJP;outubro;2018;VII;30 a 34;75;0;0;0,0
+HRJP;outubro;2018;VIII;> 34;85;1;0;0,85
+HRJP;novembro;2018;I;0 a 4;4;4;0;0,16
+HRJP;novembro;2018;II;5 a 9;8;8;1;0,64
+HRJP;novembro;2018;III;10 a 14;15;5;1;0,75
+HRJP;novembro;2018;IV;15 a 19;25;10;5;2,5
+HRJP;novembro;2018;V;20 a 24;40;1;0;0,4
+HRJP;novembro;2018;VI;25 a 29;55;2;0;1,1
+HRJP;novembro;2018;VII;30 a 34;75;1;1;0,75
+HRJP;novembro;2018;VIII;> 34;85;3;1;2,55
+HRJP;dezembro;2018;I;0 a 4;4;2;0;0,08
+HRJP;dezembro;2018;II;5 a 9;8;4;0;0,32
+HRJP;dezembro;2018;III;10 a 14;15;20;3;3,0
+HRJP;dezembro;2018;IV;15 a 19;25;10;4;2,5
+HRJP;dezembro;2018;V;20 a 24;40;2;1;0,8
+HRJP;dezembro;2018;VI;25 a 29;55;0;0;0,0
+HRJP;dezembro;2018;VII;30 a 34;75;1;1;0,75
+HRJP;dezembro;2018;VIII;> 34;85;1;0;0,85
+MOV;janeiro;2018;I;0 a 4;4;0;0;0,0
+MOV;janeiro;2018;II;5 a 9;8;5;0;0,4
+MOV;janeiro;2018;III;10 a 14;15;10;0;1,5
+MOV;janeiro;2018;IV;15 a 19;25;9;1;2,25
+MOV;janeiro;2018;V;20 a 24;40;5;1;2,0
+MOV;janeiro;2018;VI;25 a 29;55;2;1;1,1
+MOV;janeiro;2018;VII;30 a 34;75;1;0;0,75
+MOV;janeiro;2018;VIII;> 34;85;0;0;0,0
+MOV;fevereiro;2018;I;0 a 4;4;0;0;0,0
+MOV;fevereiro;2018;II;5 a 9;8;2;0;0,16
+MOV;fevereiro;2018;III;10 a 14;15;6;0;0,9
+MOV;fevereiro;2018;IV;15 a 19;25;8;0;2,0
+MOV;fevereiro;2018;V;20 a 24;40;6;0;2,4
+MOV;fevereiro;2018;VI;25 a 29;55;2;0;1,1
+MOV;fevereiro;2018;VII;30 a 34;75;1;0;0,75
+MOV;fevereiro;2018;VIII;> 34;85;0;0;0,0
+MOV;marÃ§o;2018;I;0 a 4;4;1;0;0,04
+MOV;marÃ§o;2018;II;5 a 9;8;4;0;0,32
+MOV;marÃ§o;2018;III;10 a 14;15;8;1;1,2
+MOV;marÃ§o;2018;IV;15 a 19;25;3;1;0,75
+MOV;marÃ§o;2018;V;20 a 24;40;7;3;2,8
+MOV;marÃ§o;2018;VI;25 a 29;55;6;3;3,3
+MOV;marÃ§o;2018;VII;30 a 34;75;1;1;0,75
+MOV;marÃ§o;2018;VIII;> 34;85;1;1;0,85
+MOV;abril;2018;I;0 a 4;4;0;0;0,0
+MOV;abril;2018;II;5 a 9;8;6;0;0,48
+MOV;abril;2018;III;10 a 14;15;8;1;1,2
+MOV;abril;2018;IV;15 a 19;25;10;3;2,5
+MOV;abril;2018;V;20 a 24;40;4;2;1,6
+MOV;abril;2018;VI;25 a 29;55;1;1;0,55
+MOV;abril;2018;VII;30 a 34;75;1;1;0,75
+MOV;abril;2018;VIII;> 34;85;0;0;0,0
+MOV;maio;2018;I;0 a 4;4;12;0;0,48
+MOV;maio;2018;II;5 a 9;8;16;0;1,28
+MOV;maio;2018;III;10 a 14;15;6;0;0,9
+MOV;maio;2018;IV;15 a 19;25;2;0;0,5
+MOV;maio;2018;V;20 a 24;40;5;1;2,0
+MOV;maio;2018;VI;25 a 29;55;0;0;0,0
+MOV;maio;2018;VII;30 a 34;75;0;0;0,0
+MOV;maio;2018;VIII;> 34;85;0;0;0,0
+MOV;junho;2018;I;0 a 4;4;3;0;0,12
+MOV;junho;2018;II;5 a 9;8;4;0;0,32
+MOV;junho;2018;III;10 a 14;15;8;0;1,2
+MOV;junho;2018;IV;15 a 19;25;3;0;0,75
+MOV;junho;2018;V;20 a 24;40;3;0;1,2
+MOV;junho;2018;VI;25 a 29;55;3;0;1,65
+MOV;junho;2018;VII;30 a 34;75;3;0;2,25
+MOV;junho;2018;VIII;> 34;85;3;1;2,55
+MOV;novembro;2018;I;0 a 4;4;9;0;0,36
+MOV;novembro;2018;II;5 a 9;8;9;0;0,72
+MOV;novembro;2018;III;10 a 14;15;3;0;0,45
+MOV;novembro;2018;IV;15 a 19;25;3;0;0,75
+MOV;novembro;2018;V;20 a 24;40;3;0;1,2
+MOV;novembro;2018;VI;25 a 29;55;1;2;0,55
+MOV;novembro;2018;VII;30 a 34;75;0;0;0,0
+MOV;novembro;2018;VIII;> 34;85;1;1;0,85
