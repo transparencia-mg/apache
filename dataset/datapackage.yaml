@@ -32,7 +32,7 @@ resources:
         - name: obitos_esperados
           type: geopoint
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
+    title: APACHE 2018
   - description: APACHE 2019
     dialect:
       delimiter: ;
@@ -63,7 +63,7 @@ resources:
         - name: obitos_esperados
           type: geopoint
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
+    title: APACHE 2019
   - description: APACHE 2020
     dialect:
       delimiter: ;
@@ -94,7 +94,7 @@ resources:
         - name: obitos_esperados
           type: geopoint
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
+    title: APACHE 2020
   - description: APACHE 2021
     dialect:
       delimiter: ;
@@ -125,7 +125,7 @@ resources:
         - name: obitos_esperados
           type: geopoint
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
+    title: APACHE 2021
   - description: APACHE 2022
     dialect:
       delimiter: ;
@@ -156,7 +156,7 @@ resources:
         - name: obitos_esperados
           type: geopoint
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
+    title: APACHE 2022
   - description: APACHE 2023
     dialect:
       delimiter: ;
@@ -187,7 +187,7 @@ resources:
         - name: obitos_esperados
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
+    title: APACHE 2023
   - description: APACHE 2024
     dialect:
       delimiter: ;
@@ -218,7 +218,7 @@ resources:
         - name: obitos_esperados
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
+    title: APACHE 2024
   - description: APACHE 2025
     dialect:
       delimiter: ;
@@ -249,5 +249,5 @@ resources:
         - name: obitos_esperados
           type: geopoint
     scheme: file
-    title: APACHE 
+    title: APACHE 2025
 title: APACHE
