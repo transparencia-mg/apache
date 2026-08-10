@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.161,
+  "time": 0.142,
   "errors": [],
   "tasks": [
     {
@@ -82,7 +82,7 @@
           "rows": 695
         }
       },
-      "time": 0.061,
+      "time": 0.053,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -20606,7 +20606,7 @@
           "rows": 0
         }
       },
-      "time": 0.075,
+      "time": 0.066,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -21850,9 +21850,9 @@
             "I",
             "0 a 4",
             "4",
-            "60",
-            "2,4",
-            "2"
+            "89",
+            "3,5999999999999996",
+            "5"
           ],
           "rowNumber": 17,
           "rowPosition": 18,
@@ -21868,7 +21868,37 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "2",
+          "cell": "3,5999999999999996",
+          "fieldName": "obitos_esperados",
+          "fieldNumber": 9,
+          "fieldPosition": 9,
+          "cells": [
+            "01/2019",
+            "HJK",
+            "2019",
+            "1",
+            "I",
+            "0 a 4",
+            "4",
+            "89",
+            "3,5999999999999996",
+            "5"
+          ],
+          "rowNumber": 17,
+          "rowPosition": 18,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"geopoint/default\"",
+          "message": "Type error in the cell \"3,5999999999999996\" in row \"18\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "5",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -21880,9 +21910,9 @@
             "I",
             "0 a 4",
             "4",
-            "60",
-            "2,4",
-            "2"
+            "89",
+            "3,5999999999999996",
+            "5"
           ],
           "rowNumber": 17,
           "rowPosition": 18,
@@ -21910,9 +21940,9 @@
             "II",
             "5 a 9",
             "8",
-            "141",
-            "11,280000000000001",
-            "6"
+            "193",
+            "15,48",
+            "20"
           ],
           "rowNumber": 18,
           "rowPosition": 19,
@@ -21928,37 +21958,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "11,280000000000001",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "01/2019",
-            "HJK",
-            "2019",
-            "1",
-            "II",
-            "5 a 9",
-            "8",
-            "141",
-            "11,280000000000001",
-            "6"
-          ],
-          "rowNumber": 18,
-          "rowPosition": 19,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"11,280000000000001\" in row \"19\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "6",
+          "cell": "20",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -21970,9 +21970,9 @@
             "II",
             "5 a 9",
             "8",
-            "141",
-            "11,280000000000001",
-            "6"
+            "193",
+            "15,48",
+            "20"
           ],
           "rowNumber": 18,
           "rowPosition": 19,
@@ -22000,9 +22000,9 @@
             "III",
             "10 a 14",
             "15",
-            "184",
-            "27,700000000000003",
-            "9"
+            "227",
+            "34,2",
+            "13"
           ],
           "rowNumber": 19,
           "rowPosition": 20,
@@ -22018,37 +22018,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "27,700000000000003",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "01/2019",
-            "HJK",
-            "2019",
-            "1",
-            "III",
-            "10 a 14",
-            "15",
-            "184",
-            "27,700000000000003",
-            "9"
-          ],
-          "rowNumber": 19,
-          "rowPosition": 20,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"27,700000000000003\" in row \"20\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "9",
+          "cell": "13",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -22060,9 +22030,9 @@
             "III",
             "10 a 14",
             "15",
-            "184",
-            "27,700000000000003",
-            "9"
+            "227",
+            "34,2",
+            "13"
           ],
           "rowNumber": 19,
           "rowPosition": 20,
@@ -22090,9 +22060,9 @@
             "IV",
             "15 a 19",
             "25",
-            "168",
-            "42,05",
-            "21"
+            "217",
+            "54,35",
+            "30"
           ],
           "rowNumber": 20,
           "rowPosition": 21,
@@ -22108,7 +22078,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "21",
+          "cell": "30",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -22120,9 +22090,9 @@
             "IV",
             "15 a 19",
             "25",
-            "168",
-            "42,05",
-            "21"
+            "217",
+            "54,35",
+            "30"
           ],
           "rowNumber": 20,
           "rowPosition": 21,
@@ -22150,9 +22120,9 @@
             "V",
             "20 a 24",
             "40",
-            "105",
-            "42,0",
-            "23"
+            "138",
+            "55,2",
+            "28"
           ],
           "rowNumber": 21,
           "rowPosition": 22,
@@ -22168,7 +22138,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "23",
+          "cell": "28",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -22180,9 +22150,9 @@
             "V",
             "20 a 24",
             "40",
-            "105",
-            "42,0",
-            "23"
+            "138",
+            "55,2",
+            "28"
           ],
           "rowNumber": 21,
           "rowPosition": 22,
@@ -22210,9 +22180,9 @@
             "VI",
             "25 a 29",
             "55",
-            "42",
-            "23,15",
-            "17"
+            "62",
+            "34,15",
+            "26"
           ],
           "rowNumber": 22,
           "rowPosition": 23,
@@ -22228,7 +22198,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "17",
+          "cell": "26",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -22240,9 +22210,9 @@
             "VI",
             "25 a 29",
             "55",
-            "42",
-            "23,15",
-            "17"
+            "62",
+            "34,15",
+            "26"
           ],
           "rowNumber": 22,
           "rowPosition": 23,
@@ -22270,9 +22240,9 @@
             "VII",
             "30 a 34",
             "75",
-            "30",
-            "22,55",
-            "12"
+            "33",
+            "24,85",
+            "14"
           ],
           "rowNumber": 23,
           "rowPosition": 24,
@@ -22288,7 +22258,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "12",
+          "cell": "14",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -22300,9 +22270,9 @@
             "VII",
             "30 a 34",
             "75",
-            "30",
-            "22,55",
-            "12"
+            "33",
+            "24,85",
+            "14"
           ],
           "rowNumber": 23,
           "rowPosition": 24,
@@ -22330,9 +22300,9 @@
             "VIII",
             "> 34",
             "85",
-            "17",
-            "14,45",
-            "14"
+            "20",
+            "17,05",
+            "16"
           ],
           "rowNumber": 24,
           "rowPosition": 25,
@@ -22348,7 +22318,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "14",
+          "cell": "16",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -22360,9 +22330,9 @@
             "VIII",
             "> 34",
             "85",
-            "17",
-            "14,45",
-            "14"
+            "20",
+            "17,05",
+            "16"
           ],
           "rowNumber": 24,
           "rowPosition": 25,
@@ -25750,9 +25720,9 @@
             "I",
             "0 a 4",
             "4",
-            "60",
-            "2,4",
-            "2"
+            "89",
+            "3,5999999999999996",
+            "5"
           ],
           "rowNumber": 81,
           "rowPosition": 82,
@@ -25768,7 +25738,37 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "2",
+          "cell": "3,5999999999999996",
+          "fieldName": "obitos_esperados",
+          "fieldNumber": 9,
+          "fieldPosition": 9,
+          "cells": [
+            "02/2019",
+            "HJK",
+            "2019",
+            "2",
+            "I",
+            "0 a 4",
+            "4",
+            "89",
+            "3,5999999999999996",
+            "5"
+          ],
+          "rowNumber": 81,
+          "rowPosition": 82,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"geopoint/default\"",
+          "message": "Type error in the cell \"3,5999999999999996\" in row \"82\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "5",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -25780,9 +25780,9 @@
             "I",
             "0 a 4",
             "4",
-            "60",
-            "2,4",
-            "2"
+            "89",
+            "3,5999999999999996",
+            "5"
           ],
           "rowNumber": 81,
           "rowPosition": 82,
@@ -25810,9 +25810,9 @@
             "II",
             "5 a 9",
             "8",
-            "143",
-            "11,440000000000001",
-            "6"
+            "195",
+            "15,64",
+            "20"
           ],
           "rowNumber": 82,
           "rowPosition": 83,
@@ -25828,37 +25828,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "11,440000000000001",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "02/2019",
-            "HJK",
-            "2019",
-            "2",
-            "II",
-            "5 a 9",
-            "8",
-            "143",
-            "11,440000000000001",
-            "6"
-          ],
-          "rowNumber": 82,
-          "rowPosition": 83,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"11,440000000000001\" in row \"83\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "6",
+          "cell": "20",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -25870,9 +25840,9 @@
             "II",
             "5 a 9",
             "8",
-            "143",
-            "11,440000000000001",
-            "6"
+            "195",
+            "15,64",
+            "20"
           ],
           "rowNumber": 82,
           "rowPosition": 83,
@@ -25900,9 +25870,9 @@
             "III",
             "10 a 14",
             "15",
-            "194",
-            "29,200000000000003",
-            "10"
+            "237",
+            "35,7",
+            "14"
           ],
           "rowNumber": 83,
           "rowPosition": 84,
@@ -25918,37 +25888,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "29,200000000000003",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "02/2019",
-            "HJK",
-            "2019",
-            "2",
-            "III",
-            "10 a 14",
-            "15",
-            "194",
-            "29,200000000000003",
-            "10"
-          ],
-          "rowNumber": 83,
-          "rowPosition": 84,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"29,200000000000003\" in row \"84\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "10",
+          "cell": "14",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -25960,9 +25900,9 @@
             "III",
             "10 a 14",
             "15",
-            "194",
-            "29,200000000000003",
-            "10"
+            "237",
+            "35,7",
+            "14"
           ],
           "rowNumber": 83,
           "rowPosition": 84,
@@ -25990,9 +25930,9 @@
             "IV",
             "15 a 19",
             "25",
-            "165",
-            "41,3",
-            "18"
+            "214",
+            "53,6",
+            "27"
           ],
           "rowNumber": 84,
           "rowPosition": 85,
@@ -26008,7 +25948,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "18",
+          "cell": "27",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -26020,9 +25960,9 @@
             "IV",
             "15 a 19",
             "25",
-            "165",
-            "41,3",
-            "18"
+            "214",
+            "53,6",
+            "27"
           ],
           "rowNumber": 84,
           "rowPosition": 85,
@@ -26050,9 +25990,9 @@
             "V",
             "20 a 24",
             "40",
-            "105",
-            "42,0",
-            "23"
+            "138",
+            "55,2",
+            "28"
           ],
           "rowNumber": 85,
           "rowPosition": 86,
@@ -26068,7 +26008,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "23",
+          "cell": "28",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -26080,9 +26020,9 @@
             "V",
             "20 a 24",
             "40",
-            "105",
-            "42,0",
-            "23"
+            "138",
+            "55,2",
+            "28"
           ],
           "rowNumber": 85,
           "rowPosition": 86,
@@ -26110,9 +26050,9 @@
             "VI",
             "25 a 29",
             "55",
-            "44",
-            "24,25",
-            "16"
+            "64",
+            "35,25",
+            "25"
           ],
           "rowNumber": 86,
           "rowPosition": 87,
@@ -26128,7 +26068,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "16",
+          "cell": "25",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -26140,9 +26080,9 @@
             "VI",
             "25 a 29",
             "55",
-            "44",
-            "24,25",
-            "16"
+            "64",
+            "35,25",
+            "25"
           ],
           "rowNumber": 86,
           "rowPosition": 87,
@@ -26170,9 +26110,9 @@
             "VII",
             "30 a 34",
             "75",
-            "29",
-            "21,8",
-            "11"
+            "32",
+            "24,1",
+            "13"
           ],
           "rowNumber": 87,
           "rowPosition": 88,
@@ -26188,7 +26128,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "11",
+          "cell": "13",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -26200,9 +26140,9 @@
             "VII",
             "30 a 34",
             "75",
-            "29",
-            "21,8",
-            "11"
+            "32",
+            "24,1",
+            "13"
           ],
           "rowNumber": 87,
           "rowPosition": 88,
@@ -26230,9 +26170,9 @@
             "VIII",
             "> 34",
             "85",
-            "18",
-            "15,3",
-            "12"
+            "21",
+            "17,9",
+            "14"
           ],
           "rowNumber": 88,
           "rowPosition": 89,
@@ -26248,7 +26188,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "12",
+          "cell": "14",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -26260,9 +26200,9 @@
             "VIII",
             "> 34",
             "85",
-            "18",
-            "15,3",
-            "12"
+            "21",
+            "17,9",
+            "14"
           ],
           "rowNumber": 88,
           "rowPosition": 89,
@@ -29650,9 +29590,9 @@
             "I",
             "0 a 4",
             "4",
-            "60",
-            "2,4",
-            "2"
+            "89",
+            "3,5999999999999996",
+            "5"
           ],
           "rowNumber": 145,
           "rowPosition": 146,
@@ -29668,7 +29608,37 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "2",
+          "cell": "3,5999999999999996",
+          "fieldName": "obitos_esperados",
+          "fieldNumber": 9,
+          "fieldPosition": 9,
+          "cells": [
+            "03/2019",
+            "HJK",
+            "2019",
+            "3",
+            "I",
+            "0 a 4",
+            "4",
+            "89",
+            "3,5999999999999996",
+            "5"
+          ],
+          "rowNumber": 145,
+          "rowPosition": 146,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"geopoint/default\"",
+          "message": "Type error in the cell \"3,5999999999999996\" in row \"146\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "5",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -29680,9 +29650,9 @@
             "I",
             "0 a 4",
             "4",
-            "60",
-            "2,4",
-            "2"
+            "89",
+            "3,5999999999999996",
+            "5"
           ],
           "rowNumber": 145,
           "rowPosition": 146,
@@ -29710,9 +29680,9 @@
             "II",
             "5 a 9",
             "8",
-            "146",
-            "11,68",
-            "6"
+            "198",
+            "15,88",
+            "20"
           ],
           "rowNumber": 146,
           "rowPosition": 147,
@@ -29728,7 +29698,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "6",
+          "cell": "20",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -29740,9 +29710,9 @@
             "II",
             "5 a 9",
             "8",
-            "146",
-            "11,68",
-            "6"
+            "198",
+            "15,88",
+            "20"
           ],
           "rowNumber": 146,
           "rowPosition": 147,
@@ -29770,9 +29740,9 @@
             "III",
             "10 a 14",
             "15",
-            "194",
-            "29,200000000000003",
-            "9"
+            "237",
+            "35,7",
+            "13"
           ],
           "rowNumber": 147,
           "rowPosition": 148,
@@ -29788,37 +29758,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "29,200000000000003",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "03/2019",
-            "HJK",
-            "2019",
-            "3",
-            "III",
-            "10 a 14",
-            "15",
-            "194",
-            "29,200000000000003",
-            "9"
-          ],
-          "rowNumber": 147,
-          "rowPosition": 148,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"29,200000000000003\" in row \"148\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "9",
+          "cell": "13",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -29830,9 +29770,9 @@
             "III",
             "10 a 14",
             "15",
-            "194",
-            "29,200000000000003",
-            "9"
+            "237",
+            "35,7",
+            "13"
           ],
           "rowNumber": 147,
           "rowPosition": 148,
@@ -29860,9 +29800,9 @@
             "IV",
             "15 a 19",
             "25",
-            "163",
-            "40,8",
-            "19"
+            "212",
+            "53,1",
+            "28"
           ],
           "rowNumber": 148,
           "rowPosition": 149,
@@ -29878,7 +29818,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "19",
+          "cell": "28",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -29890,9 +29830,9 @@
             "IV",
             "15 a 19",
             "25",
-            "163",
-            "40,8",
-            "19"
+            "212",
+            "53,1",
+            "28"
           ],
           "rowNumber": 148,
           "rowPosition": 149,
@@ -29920,9 +29860,9 @@
             "V",
             "20 a 24",
             "40",
-            "106",
-            "42,400000000000006",
-            "23"
+            "139",
+            "55,6",
+            "28"
           ],
           "rowNumber": 149,
           "rowPosition": 150,
@@ -29938,37 +29878,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "42,400000000000006",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "03/2019",
-            "HJK",
-            "2019",
-            "3",
-            "V",
-            "20 a 24",
-            "40",
-            "106",
-            "42,400000000000006",
-            "23"
-          ],
-          "rowNumber": 149,
-          "rowPosition": 150,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"42,400000000000006\" in row \"150\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "23",
+          "cell": "28",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -29980,9 +29890,9 @@
             "V",
             "20 a 24",
             "40",
-            "106",
-            "42,400000000000006",
-            "23"
+            "139",
+            "55,6",
+            "28"
           ],
           "rowNumber": 149,
           "rowPosition": 150,
@@ -30010,9 +29920,9 @@
             "VI",
             "25 a 29",
             "55",
-            "45",
-            "24,799999999999997",
-            "17"
+            "65",
+            "35,8",
+            "26"
           ],
           "rowNumber": 150,
           "rowPosition": 151,
@@ -30028,37 +29938,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "24,799999999999997",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "03/2019",
-            "HJK",
-            "2019",
-            "3",
-            "VI",
-            "25 a 29",
-            "55",
-            "45",
-            "24,799999999999997",
-            "17"
-          ],
-          "rowNumber": 150,
-          "rowPosition": 151,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"24,799999999999997\" in row \"151\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "17",
+          "cell": "26",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -30070,9 +29950,9 @@
             "VI",
             "25 a 29",
             "55",
-            "45",
-            "24,799999999999997",
-            "17"
+            "65",
+            "35,8",
+            "26"
           ],
           "rowNumber": 150,
           "rowPosition": 151,
@@ -30100,9 +29980,9 @@
             "VII",
             "30 a 34",
             "75",
-            "27",
-            "20,3",
-            "11"
+            "30",
+            "22,6",
+            "13"
           ],
           "rowNumber": 151,
           "rowPosition": 152,
@@ -30118,7 +29998,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "11",
+          "cell": "13",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -30130,9 +30010,9 @@
             "VII",
             "30 a 34",
             "75",
-            "27",
-            "20,3",
-            "11"
+            "30",
+            "22,6",
+            "13"
           ],
           "rowNumber": 151,
           "rowPosition": 152,
@@ -30160,9 +30040,9 @@
             "VIII",
             "> 34",
             "85",
-            "14",
-            "11,899999999999999",
-            "12"
+            "17",
+            "14,5",
+            "14"
           ],
           "rowNumber": 152,
           "rowPosition": 153,
@@ -30178,37 +30058,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "11,899999999999999",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "03/2019",
-            "HJK",
-            "2019",
-            "3",
-            "VIII",
-            "> 34",
-            "85",
-            "14",
-            "11,899999999999999",
-            "12"
-          ],
-          "rowNumber": 152,
-          "rowPosition": 153,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"11,899999999999999\" in row \"153\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "12",
+          "cell": "14",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -30220,9 +30070,9 @@
             "VIII",
             "> 34",
             "85",
-            "14",
-            "11,899999999999999",
-            "12"
+            "17",
+            "14,5",
+            "14"
           ],
           "rowNumber": 152,
           "rowPosition": 153,
@@ -33670,9 +33520,9 @@
             "I",
             "0 a 4",
             "4",
-            "60",
-            "2,4",
-            "2"
+            "89",
+            "3,5999999999999996",
+            "5"
           ],
           "rowNumber": 209,
           "rowPosition": 210,
@@ -33688,7 +33538,37 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "2",
+          "cell": "3,5999999999999996",
+          "fieldName": "obitos_esperados",
+          "fieldNumber": 9,
+          "fieldPosition": 9,
+          "cells": [
+            "04/2019",
+            "HJK",
+            "2019",
+            "4",
+            "I",
+            "0 a 4",
+            "4",
+            "89",
+            "3,5999999999999996",
+            "5"
+          ],
+          "rowNumber": 209,
+          "rowPosition": 210,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"geopoint/default\"",
+          "message": "Type error in the cell \"3,5999999999999996\" in row \"210\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "5",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -33700,9 +33580,9 @@
             "I",
             "0 a 4",
             "4",
-            "60",
-            "2,4",
-            "2"
+            "89",
+            "3,5999999999999996",
+            "5"
           ],
           "rowNumber": 209,
           "rowPosition": 210,
@@ -33730,9 +33610,9 @@
             "II",
             "5 a 9",
             "8",
-            "140",
-            "11,2",
-            "6"
+            "192",
+            "15,4",
+            "20"
           ],
           "rowNumber": 210,
           "rowPosition": 211,
@@ -33748,7 +33628,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "6",
+          "cell": "20",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -33760,9 +33640,9 @@
             "II",
             "5 a 9",
             "8",
-            "140",
-            "11,2",
-            "6"
+            "192",
+            "15,4",
+            "20"
           ],
           "rowNumber": 210,
           "rowPosition": 211,
@@ -33790,9 +33670,9 @@
             "III",
             "10 a 14",
             "15",
-            "183",
-            "27,550000000000004",
-            "8"
+            "226",
+            "34,05",
+            "12"
           ],
           "rowNumber": 211,
           "rowPosition": 212,
@@ -33808,37 +33688,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "27,550000000000004",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "04/2019",
-            "HJK",
-            "2019",
-            "4",
-            "III",
-            "10 a 14",
-            "15",
-            "183",
-            "27,550000000000004",
-            "8"
-          ],
-          "rowNumber": 211,
-          "rowPosition": 212,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"27,550000000000004\" in row \"212\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "8",
+          "cell": "12",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -33850,9 +33700,9 @@
             "III",
             "10 a 14",
             "15",
-            "183",
-            "27,550000000000004",
-            "8"
+            "226",
+            "34,05",
+            "12"
           ],
           "rowNumber": 211,
           "rowPosition": 212,
@@ -33880,9 +33730,9 @@
             "IV",
             "15 a 19",
             "25",
-            "177",
-            "44,3",
-            "19"
+            "226",
+            "56,6",
+            "28"
           ],
           "rowNumber": 212,
           "rowPosition": 213,
@@ -33898,7 +33748,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "19",
+          "cell": "28",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -33910,9 +33760,9 @@
             "IV",
             "15 a 19",
             "25",
-            "177",
-            "44,3",
-            "19"
+            "226",
+            "56,6",
+            "28"
           ],
           "rowNumber": 212,
           "rowPosition": 213,
@@ -33940,9 +33790,9 @@
             "V",
             "20 a 24",
             "40",
-            "111",
-            "44,400000000000006",
-            "22"
+            "144",
+            "57,6",
+            "27"
           ],
           "rowNumber": 213,
           "rowPosition": 214,
@@ -33958,37 +33808,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "44,400000000000006",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "04/2019",
-            "HJK",
-            "2019",
-            "4",
-            "V",
-            "20 a 24",
-            "40",
-            "111",
-            "44,400000000000006",
-            "22"
-          ],
-          "rowNumber": 213,
-          "rowPosition": 214,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"44,400000000000006\" in row \"214\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "22",
+          "cell": "27",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -34000,9 +33820,9 @@
             "V",
             "20 a 24",
             "40",
-            "111",
-            "44,400000000000006",
-            "22"
+            "144",
+            "57,6",
+            "27"
           ],
           "rowNumber": 213,
           "rowPosition": 214,
@@ -34030,9 +33850,9 @@
             "VI",
             "25 a 29",
             "55",
-            "44",
-            "24,25",
-            "16"
+            "64",
+            "35,25",
+            "25"
           ],
           "rowNumber": 214,
           "rowPosition": 215,
@@ -34048,7 +33868,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "16",
+          "cell": "25",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -34060,9 +33880,9 @@
             "VI",
             "25 a 29",
             "55",
-            "44",
-            "24,25",
-            "16"
+            "64",
+            "35,25",
+            "25"
           ],
           "rowNumber": 214,
           "rowPosition": 215,
@@ -34090,9 +33910,9 @@
             "VII",
             "30 a 34",
             "75",
-            "30",
-            "22,55",
-            "13"
+            "33",
+            "24,85",
+            "15"
           ],
           "rowNumber": 215,
           "rowPosition": 216,
@@ -34108,7 +33928,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "13",
+          "cell": "15",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -34120,9 +33940,9 @@
             "VII",
             "30 a 34",
             "75",
-            "30",
-            "22,55",
-            "13"
+            "33",
+            "24,85",
+            "15"
           ],
           "rowNumber": 215,
           "rowPosition": 216,
@@ -34150,9 +33970,9 @@
             "VIII",
             "> 34",
             "85",
-            "16",
-            "13,6",
-            "13"
+            "19",
+            "16,2",
+            "15"
           ],
           "rowNumber": 216,
           "rowPosition": 217,
@@ -34168,7 +33988,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "13",
+          "cell": "15",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -34180,9 +34000,9 @@
             "VIII",
             "> 34",
             "85",
-            "16",
-            "13,6",
-            "13"
+            "19",
+            "16,2",
+            "15"
           ],
           "rowNumber": 216,
           "rowPosition": 217,
@@ -37570,9 +37390,9 @@
             "I",
             "0 a 4",
             "4",
-            "60",
-            "2,4",
-            "2"
+            "89",
+            "3,5999999999999996",
+            "5"
           ],
           "rowNumber": 273,
           "rowPosition": 274,
@@ -37588,7 +37408,37 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "2",
+          "cell": "3,5999999999999996",
+          "fieldName": "obitos_esperados",
+          "fieldNumber": 9,
+          "fieldPosition": 9,
+          "cells": [
+            "05/2019",
+            "HJK",
+            "2019",
+            "5",
+            "I",
+            "0 a 4",
+            "4",
+            "89",
+            "3,5999999999999996",
+            "5"
+          ],
+          "rowNumber": 273,
+          "rowPosition": 274,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"geopoint/default\"",
+          "message": "Type error in the cell \"3,5999999999999996\" in row \"274\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "5",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -37600,9 +37450,9 @@
             "I",
             "0 a 4",
             "4",
-            "60",
-            "2,4",
-            "2"
+            "89",
+            "3,5999999999999996",
+            "5"
           ],
           "rowNumber": 273,
           "rowPosition": 274,
@@ -37630,9 +37480,9 @@
             "II",
             "5 a 9",
             "8",
-            "142",
-            "11,36",
-            "6"
+            "194",
+            "15,56",
+            "20"
           ],
           "rowNumber": 274,
           "rowPosition": 275,
@@ -37648,7 +37498,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "6",
+          "cell": "20",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -37660,9 +37510,9 @@
             "II",
             "5 a 9",
             "8",
-            "142",
-            "11,36",
-            "6"
+            "194",
+            "15,56",
+            "20"
           ],
           "rowNumber": 274,
           "rowPosition": 275,
@@ -37690,9 +37540,9 @@
             "III",
             "10 a 14",
             "15",
-            "190",
-            "28,6",
-            "9"
+            "233",
+            "35,1",
+            "13"
           ],
           "rowNumber": 275,
           "rowPosition": 276,
@@ -37708,7 +37558,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "9",
+          "cell": "13",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -37720,9 +37570,9 @@
             "III",
             "10 a 14",
             "15",
-            "190",
-            "28,6",
-            "9"
+            "233",
+            "35,1",
+            "13"
           ],
           "rowNumber": 275,
           "rowPosition": 276,
@@ -37750,9 +37600,9 @@
             "IV",
             "15 a 19",
             "25",
-            "159",
-            "39,8",
-            "18"
+            "208",
+            "52,1",
+            "27"
           ],
           "rowNumber": 276,
           "rowPosition": 277,
@@ -37768,7 +37618,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "18",
+          "cell": "27",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -37780,9 +37630,9 @@
             "IV",
             "15 a 19",
             "25",
-            "159",
-            "39,8",
-            "18"
+            "208",
+            "52,1",
+            "27"
           ],
           "rowNumber": 276,
           "rowPosition": 277,
@@ -37810,9 +37660,9 @@
             "V",
             "20 a 24",
             "40",
-            "103",
-            "41,2",
-            "22"
+            "136",
+            "54,4",
+            "27"
           ],
           "rowNumber": 277,
           "rowPosition": 278,
@@ -37828,7 +37678,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "22",
+          "cell": "27",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -37840,9 +37690,9 @@
             "V",
             "20 a 24",
             "40",
-            "103",
-            "41,2",
-            "22"
+            "136",
+            "54,4",
+            "27"
           ],
           "rowNumber": 277,
           "rowPosition": 278,
@@ -37870,9 +37720,9 @@
             "VI",
             "25 a 29",
             "55",
-            "51",
-            "28,1",
-            "18"
+            "71",
+            "39,099999999999994",
+            "27"
           ],
           "rowNumber": 278,
           "rowPosition": 279,
@@ -37888,7 +37738,37 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "18",
+          "cell": "39,099999999999994",
+          "fieldName": "obitos_esperados",
+          "fieldNumber": 9,
+          "fieldPosition": 9,
+          "cells": [
+            "05/2019",
+            "HJK",
+            "2019",
+            "5",
+            "VI",
+            "25 a 29",
+            "55",
+            "71",
+            "39,099999999999994",
+            "27"
+          ],
+          "rowNumber": 278,
+          "rowPosition": 279,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"geopoint/default\"",
+          "message": "Type error in the cell \"39,099999999999994\" in row \"279\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "27",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -37900,9 +37780,9 @@
             "VI",
             "25 a 29",
             "55",
-            "51",
-            "28,1",
-            "18"
+            "71",
+            "39,099999999999994",
+            "27"
           ],
           "rowNumber": 278,
           "rowPosition": 279,
@@ -37930,9 +37810,9 @@
             "VII",
             "30 a 34",
             "75",
-            "30",
-            "22,55",
-            "12"
+            "33",
+            "24,85",
+            "14"
           ],
           "rowNumber": 279,
           "rowPosition": 280,
@@ -37948,7 +37828,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "12",
+          "cell": "14",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -37960,9 +37840,9 @@
             "VII",
             "30 a 34",
             "75",
-            "30",
-            "22,55",
-            "12"
+            "33",
+            "24,85",
+            "14"
           ],
           "rowNumber": 279,
           "rowPosition": 280,
@@ -37990,9 +37870,9 @@
             "VIII",
             "> 34",
             "85",
-            "14",
-            "11,899999999999999",
-            "11"
+            "17",
+            "14,5",
+            "13"
           ],
           "rowNumber": 280,
           "rowPosition": 281,
@@ -38008,37 +37888,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "11,899999999999999",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "05/2019",
-            "HJK",
-            "2019",
-            "5",
-            "VIII",
-            "> 34",
-            "85",
-            "14",
-            "11,899999999999999",
-            "11"
-          ],
-          "rowNumber": 280,
-          "rowPosition": 281,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"11,899999999999999\" in row \"281\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "11",
+          "cell": "13",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -38050,9 +37900,9 @@
             "VIII",
             "> 34",
             "85",
-            "14",
-            "11,899999999999999",
-            "11"
+            "17",
+            "14,5",
+            "13"
           ],
           "rowNumber": 280,
           "rowPosition": 281,
@@ -41470,9 +41320,9 @@
             "I",
             "0 a 4",
             "4",
-            "60",
-            "2,4",
-            "2"
+            "89",
+            "3,5999999999999996",
+            "5"
           ],
           "rowNumber": 337,
           "rowPosition": 338,
@@ -41488,7 +41338,37 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "2",
+          "cell": "3,5999999999999996",
+          "fieldName": "obitos_esperados",
+          "fieldNumber": 9,
+          "fieldPosition": 9,
+          "cells": [
+            "06/2019",
+            "HJK",
+            "2019",
+            "6",
+            "I",
+            "0 a 4",
+            "4",
+            "89",
+            "3,5999999999999996",
+            "5"
+          ],
+          "rowNumber": 337,
+          "rowPosition": 338,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"geopoint/default\"",
+          "message": "Type error in the cell \"3,5999999999999996\" in row \"338\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "5",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -41500,9 +41380,9 @@
             "I",
             "0 a 4",
             "4",
-            "60",
-            "2,4",
-            "2"
+            "89",
+            "3,5999999999999996",
+            "5"
           ],
           "rowNumber": 337,
           "rowPosition": 338,
@@ -41530,9 +41410,9 @@
             "II",
             "5 a 9",
             "8",
-            "144",
-            "11,52",
-            "6"
+            "196",
+            "15,72",
+            "20"
           ],
           "rowNumber": 338,
           "rowPosition": 339,
@@ -41548,7 +41428,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "6",
+          "cell": "20",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -41560,9 +41440,9 @@
             "II",
             "5 a 9",
             "8",
-            "144",
-            "11,52",
-            "6"
+            "196",
+            "15,72",
+            "20"
           ],
           "rowNumber": 338,
           "rowPosition": 339,
@@ -41590,9 +41470,9 @@
             "III",
             "10 a 14",
             "15",
-            "188",
-            "28,300000000000004",
-            "8"
+            "231",
+            "34,8",
+            "12"
           ],
           "rowNumber": 339,
           "rowPosition": 340,
@@ -41608,37 +41488,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "28,300000000000004",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "06/2019",
-            "HJK",
-            "2019",
-            "6",
-            "III",
-            "10 a 14",
-            "15",
-            "188",
-            "28,300000000000004",
-            "8"
-          ],
-          "rowNumber": 339,
-          "rowPosition": 340,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"28,300000000000004\" in row \"340\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "8",
+          "cell": "12",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -41650,9 +41500,9 @@
             "III",
             "10 a 14",
             "15",
-            "188",
-            "28,300000000000004",
-            "8"
+            "231",
+            "34,8",
+            "12"
           ],
           "rowNumber": 339,
           "rowPosition": 340,
@@ -41680,9 +41530,9 @@
             "IV",
             "15 a 19",
             "25",
-            "160",
-            "40,05",
-            "19"
+            "209",
+            "52,35",
+            "28"
           ],
           "rowNumber": 340,
           "rowPosition": 341,
@@ -41698,7 +41548,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "19",
+          "cell": "28",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -41710,9 +41560,9 @@
             "IV",
             "15 a 19",
             "25",
-            "160",
-            "40,05",
-            "19"
+            "209",
+            "52,35",
+            "28"
           ],
           "rowNumber": 340,
           "rowPosition": 341,
@@ -41740,9 +41590,9 @@
             "V",
             "20 a 24",
             "40",
-            "106",
-            "42,400000000000006",
-            "24"
+            "139",
+            "55,6",
+            "29"
           ],
           "rowNumber": 341,
           "rowPosition": 342,
@@ -41758,37 +41608,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "42,400000000000006",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "06/2019",
-            "HJK",
-            "2019",
-            "6",
-            "V",
-            "20 a 24",
-            "40",
-            "106",
-            "42,400000000000006",
-            "24"
-          ],
-          "rowNumber": 341,
-          "rowPosition": 342,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"42,400000000000006\" in row \"342\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "24",
+          "cell": "29",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -41800,9 +41620,9 @@
             "V",
             "20 a 24",
             "40",
-            "106",
-            "42,400000000000006",
-            "24"
+            "139",
+            "55,6",
+            "29"
           ],
           "rowNumber": 341,
           "rowPosition": 342,
@@ -41830,9 +41650,9 @@
             "VI",
             "25 a 29",
             "55",
-            "45",
-            "24,799999999999997",
-            "15"
+            "65",
+            "35,8",
+            "24"
           ],
           "rowNumber": 342,
           "rowPosition": 343,
@@ -41848,37 +41668,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "24,799999999999997",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "06/2019",
-            "HJK",
-            "2019",
-            "6",
-            "VI",
-            "25 a 29",
-            "55",
-            "45",
-            "24,799999999999997",
-            "15"
-          ],
-          "rowNumber": 342,
-          "rowPosition": 343,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"24,799999999999997\" in row \"343\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "15",
+          "cell": "24",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -41890,9 +41680,9 @@
             "VI",
             "25 a 29",
             "55",
-            "45",
-            "24,799999999999997",
-            "15"
+            "65",
+            "35,8",
+            "24"
           ],
           "rowNumber": 342,
           "rowPosition": 343,
@@ -41920,9 +41710,9 @@
             "VII",
             "30 a 34",
             "75",
-            "34",
-            "25,55",
-            "15"
+            "37",
+            "27,85",
+            "17"
           ],
           "rowNumber": 343,
           "rowPosition": 344,
@@ -41938,7 +41728,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "15",
+          "cell": "17",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -41950,9 +41740,9 @@
             "VII",
             "30 a 34",
             "75",
-            "34",
-            "25,55",
-            "15"
+            "37",
+            "27,85",
+            "17"
           ],
           "rowNumber": 343,
           "rowPosition": 344,
@@ -41980,9 +41770,9 @@
             "VIII",
             "> 34",
             "85",
-            "16",
-            "13,6",
-            "13"
+            "19",
+            "16,2",
+            "15"
           ],
           "rowNumber": 344,
           "rowPosition": 345,
@@ -41998,7 +41788,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "13",
+          "cell": "15",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -42010,9 +41800,9 @@
             "VIII",
             "> 34",
             "85",
-            "16",
-            "13,6",
-            "13"
+            "19",
+            "16,2",
+            "15"
           ],
           "rowNumber": 344,
           "rowPosition": 345,
@@ -45490,9 +45280,9 @@
             "I",
             "0 a 4",
             "4",
-            "60",
-            "2,4",
-            "2"
+            "89",
+            "3,5999999999999996",
+            "5"
           ],
           "rowNumber": 401,
           "rowPosition": 402,
@@ -45508,7 +45298,37 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "2",
+          "cell": "3,5999999999999996",
+          "fieldName": "obitos_esperados",
+          "fieldNumber": 9,
+          "fieldPosition": 9,
+          "cells": [
+            "07/2019",
+            "HJK",
+            "2019",
+            "7",
+            "I",
+            "0 a 4",
+            "4",
+            "89",
+            "3,5999999999999996",
+            "5"
+          ],
+          "rowNumber": 401,
+          "rowPosition": 402,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"geopoint/default\"",
+          "message": "Type error in the cell \"3,5999999999999996\" in row \"402\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "5",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -45520,9 +45340,9 @@
             "I",
             "0 a 4",
             "4",
-            "60",
-            "2,4",
-            "2"
+            "89",
+            "3,5999999999999996",
+            "5"
           ],
           "rowNumber": 401,
           "rowPosition": 402,
@@ -45550,9 +45370,9 @@
             "II",
             "5 a 9",
             "8",
-            "145",
-            "11,600000000000001",
-            "7"
+            "197",
+            "15,8",
+            "21"
           ],
           "rowNumber": 402,
           "rowPosition": 403,
@@ -45568,37 +45388,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "11,600000000000001",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "07/2019",
-            "HJK",
-            "2019",
-            "7",
-            "II",
-            "5 a 9",
-            "8",
-            "145",
-            "11,600000000000001",
-            "7"
-          ],
-          "rowNumber": 402,
-          "rowPosition": 403,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"11,600000000000001\" in row \"403\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "7",
+          "cell": "21",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -45610,9 +45400,9 @@
             "II",
             "5 a 9",
             "8",
-            "145",
-            "11,600000000000001",
-            "7"
+            "197",
+            "15,8",
+            "21"
           ],
           "rowNumber": 402,
           "rowPosition": 403,
@@ -45640,9 +45430,9 @@
             "III",
             "10 a 14",
             "15",
-            "197",
-            "29,65",
-            "10"
+            "240",
+            "36,15",
+            "14"
           ],
           "rowNumber": 403,
           "rowPosition": 404,
@@ -45658,7 +45448,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "10",
+          "cell": "14",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -45670,9 +45460,9 @@
             "III",
             "10 a 14",
             "15",
-            "197",
-            "29,65",
-            "10"
+            "240",
+            "36,15",
+            "14"
           ],
           "rowNumber": 403,
           "rowPosition": 404,
@@ -45700,9 +45490,9 @@
             "IV",
             "15 a 19",
             "25",
-            "166",
-            "41,55",
-            "18"
+            "215",
+            "53,85",
+            "27"
           ],
           "rowNumber": 404,
           "rowPosition": 405,
@@ -45718,7 +45508,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "18",
+          "cell": "27",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -45730,9 +45520,9 @@
             "IV",
             "15 a 19",
             "25",
-            "166",
-            "41,55",
-            "18"
+            "215",
+            "53,85",
+            "27"
           ],
           "rowNumber": 404,
           "rowPosition": 405,
@@ -45760,9 +45550,9 @@
             "V",
             "20 a 24",
             "40",
-            "106",
-            "42,400000000000006",
-            "22"
+            "139",
+            "55,6",
+            "27"
           ],
           "rowNumber": 405,
           "rowPosition": 406,
@@ -45778,37 +45568,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "42,400000000000006",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "07/2019",
-            "HJK",
-            "2019",
-            "7",
-            "V",
-            "20 a 24",
-            "40",
-            "106",
-            "42,400000000000006",
-            "22"
-          ],
-          "rowNumber": 405,
-          "rowPosition": 406,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"42,400000000000006\" in row \"406\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "22",
+          "cell": "27",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -45820,9 +45580,9 @@
             "V",
             "20 a 24",
             "40",
-            "106",
-            "42,400000000000006",
-            "22"
+            "139",
+            "55,6",
+            "27"
           ],
           "rowNumber": 405,
           "rowPosition": 406,
@@ -45850,9 +45610,9 @@
             "VI",
             "25 a 29",
             "55",
-            "50",
-            "27,549999999999997",
-            "17"
+            "70",
+            "38,55",
+            "26"
           ],
           "rowNumber": 406,
           "rowPosition": 407,
@@ -45868,37 +45628,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "27,549999999999997",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "07/2019",
-            "HJK",
-            "2019",
-            "7",
-            "VI",
-            "25 a 29",
-            "55",
-            "50",
-            "27,549999999999997",
-            "17"
-          ],
-          "rowNumber": 406,
-          "rowPosition": 407,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"27,549999999999997\" in row \"407\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "17",
+          "cell": "26",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -45910,9 +45640,9 @@
             "VI",
             "25 a 29",
             "55",
-            "50",
-            "27,549999999999997",
-            "17"
+            "70",
+            "38,55",
+            "26"
           ],
           "rowNumber": 406,
           "rowPosition": 407,
@@ -45940,9 +45670,9 @@
             "VII",
             "30 a 34",
             "75",
-            "30",
-            "22,55",
-            "11"
+            "33",
+            "24,85",
+            "13"
           ],
           "rowNumber": 407,
           "rowPosition": 408,
@@ -45958,7 +45688,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "11",
+          "cell": "13",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -45970,9 +45700,9 @@
             "VII",
             "30 a 34",
             "75",
-            "30",
-            "22,55",
-            "11"
+            "33",
+            "24,85",
+            "13"
           ],
           "rowNumber": 407,
           "rowPosition": 408,
@@ -46000,9 +45730,9 @@
             "VIII",
             "> 34",
             "85",
-            "17",
-            "14,45",
-            "13"
+            "20",
+            "17,05",
+            "15"
           ],
           "rowNumber": 408,
           "rowPosition": 409,
@@ -46018,7 +45748,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "13",
+          "cell": "15",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -46030,9 +45760,9 @@
             "VIII",
             "> 34",
             "85",
-            "17",
-            "14,45",
-            "13"
+            "20",
+            "17,05",
+            "15"
           ],
           "rowNumber": 408,
           "rowPosition": 409,
@@ -49420,9 +49150,9 @@
             "I",
             "0 a 4",
             "4",
-            "60",
-            "2,4",
-            "2"
+            "89",
+            "3,5999999999999996",
+            "5"
           ],
           "rowNumber": 465,
           "rowPosition": 466,
@@ -49438,7 +49168,37 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "2",
+          "cell": "3,5999999999999996",
+          "fieldName": "obitos_esperados",
+          "fieldNumber": 9,
+          "fieldPosition": 9,
+          "cells": [
+            "08/2019",
+            "HJK",
+            "2019",
+            "8",
+            "I",
+            "0 a 4",
+            "4",
+            "89",
+            "3,5999999999999996",
+            "5"
+          ],
+          "rowNumber": 465,
+          "rowPosition": 466,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"geopoint/default\"",
+          "message": "Type error in the cell \"3,5999999999999996\" in row \"466\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "5",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -49450,9 +49210,9 @@
             "I",
             "0 a 4",
             "4",
-            "60",
-            "2,4",
-            "2"
+            "89",
+            "3,5999999999999996",
+            "5"
           ],
           "rowNumber": 465,
           "rowPosition": 466,
@@ -49480,9 +49240,9 @@
             "II",
             "5 a 9",
             "8",
-            "144",
-            "11,52",
-            "6"
+            "196",
+            "15,72",
+            "20"
           ],
           "rowNumber": 466,
           "rowPosition": 467,
@@ -49498,7 +49258,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "6",
+          "cell": "20",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -49510,9 +49270,9 @@
             "II",
             "5 a 9",
             "8",
-            "144",
-            "11,52",
-            "6"
+            "196",
+            "15,72",
+            "20"
           ],
           "rowNumber": 466,
           "rowPosition": 467,
@@ -49540,9 +49300,9 @@
             "III",
             "10 a 14",
             "15",
-            "184",
-            "27,700000000000003",
-            "9"
+            "227",
+            "34,2",
+            "13"
           ],
           "rowNumber": 467,
           "rowPosition": 468,
@@ -49558,37 +49318,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "27,700000000000003",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "08/2019",
-            "HJK",
-            "2019",
-            "8",
-            "III",
-            "10 a 14",
-            "15",
-            "184",
-            "27,700000000000003",
-            "9"
-          ],
-          "rowNumber": 467,
-          "rowPosition": 468,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"27,700000000000003\" in row \"468\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "9",
+          "cell": "13",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -49600,9 +49330,9 @@
             "III",
             "10 a 14",
             "15",
-            "184",
-            "27,700000000000003",
-            "9"
+            "227",
+            "34,2",
+            "13"
           ],
           "rowNumber": 467,
           "rowPosition": 468,
@@ -49630,9 +49360,9 @@
             "IV",
             "15 a 19",
             "25",
-            "171",
-            "42,8",
-            "18"
+            "220",
+            "55,1",
+            "27"
           ],
           "rowNumber": 468,
           "rowPosition": 469,
@@ -49648,7 +49378,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "18",
+          "cell": "27",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -49660,9 +49390,9 @@
             "IV",
             "15 a 19",
             "25",
-            "171",
-            "42,8",
-            "18"
+            "220",
+            "55,1",
+            "27"
           ],
           "rowNumber": 468,
           "rowPosition": 469,
@@ -49690,9 +49420,9 @@
             "V",
             "20 a 24",
             "40",
-            "106",
-            "42,400000000000006",
-            "23"
+            "139",
+            "55,6",
+            "28"
           ],
           "rowNumber": 469,
           "rowPosition": 470,
@@ -49708,37 +49438,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "42,400000000000006",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "08/2019",
-            "HJK",
-            "2019",
-            "8",
-            "V",
-            "20 a 24",
-            "40",
-            "106",
-            "42,400000000000006",
-            "23"
-          ],
-          "rowNumber": 469,
-          "rowPosition": 470,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"42,400000000000006\" in row \"470\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "23",
+          "cell": "28",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -49750,9 +49450,9 @@
             "V",
             "20 a 24",
             "40",
-            "106",
-            "42,400000000000006",
-            "23"
+            "139",
+            "55,6",
+            "28"
           ],
           "rowNumber": 469,
           "rowPosition": 470,
@@ -49780,9 +49480,9 @@
             "VI",
             "25 a 29",
             "55",
-            "47",
-            "25,9",
-            "14"
+            "67",
+            "36,9",
+            "23"
           ],
           "rowNumber": 470,
           "rowPosition": 471,
@@ -49798,7 +49498,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "14",
+          "cell": "23",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -49810,9 +49510,9 @@
             "VI",
             "25 a 29",
             "55",
-            "47",
-            "25,9",
-            "14"
+            "67",
+            "36,9",
+            "23"
           ],
           "rowNumber": 470,
           "rowPosition": 471,
@@ -49840,9 +49540,9 @@
             "VII",
             "30 a 34",
             "75",
-            "31",
-            "23,3",
-            "13"
+            "34",
+            "25,6",
+            "15"
           ],
           "rowNumber": 471,
           "rowPosition": 472,
@@ -49858,7 +49558,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "13",
+          "cell": "15",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -49870,9 +49570,9 @@
             "VII",
             "30 a 34",
             "75",
-            "31",
-            "23,3",
-            "13"
+            "34",
+            "25,6",
+            "15"
           ],
           "rowNumber": 471,
           "rowPosition": 472,
@@ -49900,9 +49600,9 @@
             "VIII",
             "> 34",
             "85",
-            "16",
-            "13,6",
-            "11"
+            "19",
+            "16,2",
+            "13"
           ],
           "rowNumber": 472,
           "rowPosition": 473,
@@ -49918,7 +49618,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "11",
+          "cell": "13",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -49930,9 +49630,9 @@
             "VIII",
             "> 34",
             "85",
-            "16",
-            "13,6",
-            "11"
+            "19",
+            "16,2",
+            "13"
           ],
           "rowNumber": 472,
           "rowPosition": 473,
@@ -50636,6 +50336,306 @@
           "note": "",
           "message": "Row at position \"484\" has an extra value in field at position \"10\"",
           "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
+        },
+        {
+          "cell": "15 a 19",
+          "fieldName": "predicao_obito",
+          "fieldNumber": 6,
+          "fieldPosition": 6,
+          "cells": [
+            "08/2019",
+            "HRAD",
+            "2019",
+            "8",
+            "IV",
+            "15 a 19",
+            "25",
+            "22",
+            "5,5",
+            "0"
+          ],
+          "rowNumber": 484,
+          "rowPosition": 485,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"geopoint/default\"",
+          "message": "Type error in the cell \"15 a 19\" in row \"485\" and field \"predicao_obito\" at position \"6\": type is \"geopoint/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "0",
+          "fieldName": "",
+          "fieldNumber": 9,
+          "fieldPosition": 10,
+          "cells": [
+            "08/2019",
+            "HRAD",
+            "2019",
+            "8",
+            "IV",
+            "15 a 19",
+            "25",
+            "22",
+            "5,5",
+            "0"
+          ],
+          "rowNumber": 484,
+          "rowPosition": 485,
+          "code": "extra-cell",
+          "name": "Extra Cell",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "",
+          "message": "Row at position \"485\" has an extra value in field at position \"10\"",
+          "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
+        },
+        {
+          "cell": "20 a 24",
+          "fieldName": "predicao_obito",
+          "fieldNumber": 6,
+          "fieldPosition": 6,
+          "cells": [
+            "08/2019",
+            "HRAD",
+            "2019",
+            "8",
+            "V",
+            "20 a 24",
+            "40",
+            "14",
+            "5,6",
+            "2"
+          ],
+          "rowNumber": 485,
+          "rowPosition": 486,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"geopoint/default\"",
+          "message": "Type error in the cell \"20 a 24\" in row \"486\" and field \"predicao_obito\" at position \"6\": type is \"geopoint/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2",
+          "fieldName": "",
+          "fieldNumber": 9,
+          "fieldPosition": 10,
+          "cells": [
+            "08/2019",
+            "HRAD",
+            "2019",
+            "8",
+            "V",
+            "20 a 24",
+            "40",
+            "14",
+            "5,6",
+            "2"
+          ],
+          "rowNumber": 485,
+          "rowPosition": 486,
+          "code": "extra-cell",
+          "name": "Extra Cell",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "",
+          "message": "Row at position \"486\" has an extra value in field at position \"10\"",
+          "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
+        },
+        {
+          "cell": "25 a 29",
+          "fieldName": "predicao_obito",
+          "fieldNumber": 6,
+          "fieldPosition": 6,
+          "cells": [
+            "08/2019",
+            "HRAD",
+            "2019",
+            "8",
+            "VI",
+            "25 a 29",
+            "55",
+            "9",
+            "4,95",
+            "4"
+          ],
+          "rowNumber": 486,
+          "rowPosition": 487,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"geopoint/default\"",
+          "message": "Type error in the cell \"25 a 29\" in row \"487\" and field \"predicao_obito\" at position \"6\": type is \"geopoint/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "4,95",
+          "fieldName": "obitos_esperados",
+          "fieldNumber": 9,
+          "fieldPosition": 9,
+          "cells": [
+            "08/2019",
+            "HRAD",
+            "2019",
+            "8",
+            "VI",
+            "25 a 29",
+            "55",
+            "9",
+            "4,95",
+            "4"
+          ],
+          "rowNumber": 486,
+          "rowPosition": 487,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"geopoint/default\"",
+          "message": "Type error in the cell \"4,95\" in row \"487\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "4",
+          "fieldName": "",
+          "fieldNumber": 9,
+          "fieldPosition": 10,
+          "cells": [
+            "08/2019",
+            "HRAD",
+            "2019",
+            "8",
+            "VI",
+            "25 a 29",
+            "55",
+            "9",
+            "4,95",
+            "4"
+          ],
+          "rowNumber": 486,
+          "rowPosition": 487,
+          "code": "extra-cell",
+          "name": "Extra Cell",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "",
+          "message": "Row at position \"487\" has an extra value in field at position \"10\"",
+          "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
+        },
+        {
+          "cell": "30 a 34",
+          "fieldName": "predicao_obito",
+          "fieldNumber": 6,
+          "fieldPosition": 6,
+          "cells": [
+            "08/2019",
+            "HRAD",
+            "2019",
+            "8",
+            "VII",
+            "30 a 34",
+            "75",
+            "0",
+            "0,0",
+            "0"
+          ],
+          "rowNumber": 487,
+          "rowPosition": 488,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"geopoint/default\"",
+          "message": "Type error in the cell \"30 a 34\" in row \"488\" and field \"predicao_obito\" at position \"6\": type is \"geopoint/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "0",
+          "fieldName": "",
+          "fieldNumber": 9,
+          "fieldPosition": 10,
+          "cells": [
+            "08/2019",
+            "HRAD",
+            "2019",
+            "8",
+            "VII",
+            "30 a 34",
+            "75",
+            "0",
+            "0,0",
+            "0"
+          ],
+          "rowNumber": 487,
+          "rowPosition": 488,
+          "code": "extra-cell",
+          "name": "Extra Cell",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "",
+          "message": "Row at position \"488\" has an extra value in field at position \"10\"",
+          "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
+        },
+        {
+          "cell": "> 34",
+          "fieldName": "predicao_obito",
+          "fieldNumber": 6,
+          "fieldPosition": 6,
+          "cells": [
+            "08/2019",
+            "HRAD",
+            "2019",
+            "8",
+            "VIII",
+            "> 34",
+            "85",
+            "0",
+            "0,0",
+            "0"
+          ],
+          "rowNumber": 488,
+          "rowPosition": 489,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"geopoint/default\"",
+          "message": "Type error in the cell \"> 34\" in row \"489\" and field \"predicao_obito\" at position \"6\": type is \"geopoint/default\"",
+          "description": "The value does not match the schema type and format for this field."
         }
       ],
       "stats": {
